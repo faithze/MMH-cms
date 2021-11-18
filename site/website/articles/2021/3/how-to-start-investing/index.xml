@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>aca9</objectGroupId>
+	<objectId>aca98b7e-1a54-b4a3-bae7-f24eeada540b</objectId>
+	<disabled>false</disabled>
+	<internal-name>How to start investing</internal-name>
+	<pageName_s>How to start investing</pageName_s>
+	<pageDescription_s>How to start investing. Speak to a Momentum Velocity Club Consultant about helping complete beginners make sense of investing.</pageDescription_s>
+	<title_s>How to start investing</title_s>
+	<manualDate_s/>
+	<imageAlt_s>Man in a casual grey sweater talking on his cell phone.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/young-man-holding-cellphone.jpg</image_url_s>
+	<post_id_s>list-col-1b-tall</post_id_s>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>147f3b5e-6b1b-386d-59d5-12fea6ff2416</key>
+	<value>Intro</value>
+<component id="147f3b5e-6b1b-386d-59d5-12fea6ff2416">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>147f</objectGroupId>
+	<objectId>147f3b5e-6b1b-386d-59d5-12fea6ff2416</objectId>
+	<file-name>147f3b5e-6b1b-386d-59d5-12fea6ff2416.xml</file-name>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;I used to think that investing was complicated and scary.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Now I only think one of those things.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;But enough of what I think.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;What matters is what you think about it. Because this post is all about helping complete beginners make sense of investing.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Here at Velocity Club, we&amp;rsquo;re on a mission to help you achieve your financial goals. A big part of that is helping you to invest your money wisely so you can build wealth and reach all of your goals later on. Investing is important and we want to make sure you understand what it is.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;So, without further ado.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Welcome to investing 101. The class is now in session.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What is the difference between investing and saving?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Investing is buying financial assets today in order to&amp;nbsp;&lt;a style="background-color: transparent;" href="/articles/2020/10/building-your-financial-future.html"&gt;create wealth in the future&lt;/a&gt;. And hopefully, this wealth is enough to cover all your expenses without you having to work to earn an income. That&amp;rsquo;s the dream, anyway!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;People invest their money with different goals in mind but, either way, the concept is always the same. You give your money to, for example, a financial institution or other entity in the hope that sometime in the future they&amp;rsquo;ll give you more money back.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;It&amp;rsquo;s different from saving money.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Saving money is an idea that you&amp;rsquo;re probably already familiar with. The goal of saving money is usually to put money away so that you can spend this money on something later.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;When you save money, you might put it into a savings account with a bank where it is guaranteed and will accrue a small amount of interest over time. Alternatively, for some people, saving money might mean stashing it in a box at the back of a closet or other safe place, to use it in the future.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;So, when you save money you usually do so with the intention of spending it in the future. When you invest money, you do so with the intent to gain an income from that money in the future.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:50:06.730Z</createdDate>
+	<createdDate_dt>2021-09-01T13:50:06.730Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T15:22:11.532Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T15:22:11.532Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>cc3ca5f6-35bb-e8ac-494a-b5f34761e4d7</key>
+	<value>Callout yellow</value>
+<component id="cc3ca5f6-35bb-e8ac-494a-b5f34761e4d7">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cc3c</objectGroupId>
+	<objectId>cc3ca5f6-35bb-e8ac-494a-b5f34761e4d7</objectId>
+	<file-name>cc3ca5f6-35bb-e8ac-494a-b5f34761e4d7.xml</file-name>
+	<internal-name>Callout yellow</internal-name>
+	<bg_color_s>bg--yellow</bg_color_s>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #ffbe00; color: #323232 !important;"&gt;Investing is important and we want to make sure you understand what it is.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:50:31.552Z</createdDate>
+	<createdDate_dt>2021-09-01T13:50:31.552Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:50:31.552Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:50:31.552Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>c36bd039-a793-8305-9b50-30c68d3f3da3</key>
+	<value>Sec 1</value>
+<component id="c36bd039-a793-8305-9b50-30c68d3f3da3">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c36b</objectGroupId>
+	<objectId>c36bd039-a793-8305-9b50-30c68d3f3da3</objectId>
+	<file-name>c36bd039-a793-8305-9b50-30c68d3f3da3.xml</file-name>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What are the different types of investments?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;There are many different ways to invest your money in Mzansi. The technical financial term for these different options is &amp;lsquo;asset classes&amp;rsquo;. Asset classes vary wildly and range from classes with terms you&amp;rsquo;ll be familiar with - like shares, and property ownership, to ones you might not have heard of before, like commodities, futures and derivatives.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Luckily for you, if you are interested in investing, you don&amp;rsquo;t need to know everything there is to know about which asset classes are which, and which ones are right for you. That&amp;rsquo;s our job. So, remember, your Velocity Club relationship consultant is only a phone call away and has all the latest and best investment information to help you make the right decisions.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What&amp;rsquo;s the right investment for you?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We&amp;rsquo;re glad you asked!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;There&amp;rsquo;s no one answer that is going to work for every single person. But there are things that you need to consider when making a decision to invest. Those are:&lt;/p&gt;
+&lt;ol style="color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;
+&lt;li&gt;Your financial health&lt;/li&gt;
+&lt;li&gt;Your time.&lt;/li&gt;
+&lt;li&gt;Your budget&lt;/li&gt;
+&lt;li&gt;Your tolerance for risk&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;1. Your financial health&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you&amp;rsquo;ve read this far you&amp;rsquo;re no doubt eager to start building your own investment portfolio.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;But first, you need to understand your financial health and make sure that you are getting started on the right foot. If you haven&amp;rsquo;t done so yet, feel free to&amp;nbsp;&lt;a style="background-color: transparent; color: var(--color-black);" data-tf-slider="Sgz7HGMv" data-tf-width="550" data-tf-hidden="utm_source=CTA,utm_medium=website,utm_campaign=velocityclub_site,utm_term=,utm_content=" data-tf-loaded="true"&gt;book a session&lt;/a&gt;&amp;nbsp;with us to see where your finances stand.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Once that&amp;rsquo;s done, the next step is to start actively paying off your expensive debt, especially credit card debt. This has a high interest rate and until it&amp;rsquo;s paid off, you'll struggle to get ahead with your investing. That&amp;rsquo;s because if your investment gains don&amp;rsquo;t outperform your losses to interest payments, you&amp;rsquo;ll basically be &amp;lsquo;investing yourself poorer&amp;rsquo; as we like to say.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We also recommend that you have a proper emergency fund in place, or at least that you&amp;rsquo;re building one up. This is money you&amp;rsquo;ve saved, to carry you through life&amp;rsquo;s unexpected dramas. This could be anything from your car needing new tyres, to funding your expenses if you get retrenched. This way you don&amp;rsquo;t need to use expensive debt to get back on your feet.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:50:59.307Z</createdDate>
+	<createdDate_dt>2021-09-01T13:50:59.307Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:50:59.307Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:50:59.307Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>c34da157-38f3-eecb-ddc4-d30e6fa16dea</key>
+	<value>Callout left one</value>
+<component id="c34da157-38f3-eecb-ddc4-d30e6fa16dea">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c34d</objectGroupId>
+	<objectId>c34da157-38f3-eecb-ddc4-d30e6fa16dea</objectId>
+	<internal-name>Callout left one</internal-name>
+	<file-name>c34da157-38f3-eecb-ddc4-d30e6fa16dea.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;So, when you save money, you usually do so with the intention of spending it in the future. When you invest money, you do so with the intent to gain an income from that money in the future.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:51:25.920Z</createdDate>
+	<createdDate_dt>2021-09-01T13:51:25.920Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:51:25.920Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:51:25.920Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>f6de7bc0-13fc-fb93-982e-84afa828c2d3</key>
+	<value>Sec 2</value>
+<component id="f6de7bc0-13fc-fb93-982e-84afa828c2d3">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f6de</objectGroupId>
+	<objectId>f6de7bc0-13fc-fb93-982e-84afa828c2d3</objectId>
+	<internal-name>Sec 2</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>f6de7bc0-13fc-fb93-982e-84afa828c2d3.xml</file-name>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;2. Your time&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Here we&amp;rsquo;re referring to the time you&amp;rsquo;ll need to study investing and research the options available, as well as the length of time and investment needs in order to make the gains you&amp;rsquo;re hoping for.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you&amp;rsquo;ve got the time for the studying involved, great! If not, then we&amp;rsquo;re here to help. Contact your Velocity Club relationship consultant. They&amp;rsquo;re here to assist you with information to help you make investment decisions that are right for you.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;3. Your budget&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;How much money are you able to invest?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The amount of money you start with isn&amp;rsquo;t actually as important but it does impact on the investment options available to you right from the start.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;In fact, the more important issue is making sure you&amp;rsquo;re financially ready to live with less money so that you can invest that balance on a regular basis, for a long period of time. But trust us, it will be worth the sacrifice in the long run!&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:51:47.175Z</createdDate>
+	<createdDate_dt>2021-09-01T13:51:47.175Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:51:47.175Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:51:47.175Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>797c09c3-811c-e25a-f9ac-d5fd5bfc4e1d</key>
+	<value>Callout right one</value>
+<component id="797c09c3-811c-e25a-f9ac-d5fd5bfc4e1d">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>797c</objectGroupId>
+	<objectId>797c09c3-811c-e25a-f9ac-d5fd5bfc4e1d</objectId>
+	<file-name>797c09c3-811c-e25a-f9ac-d5fd5bfc4e1d.xml</file-name>
+	<internal-name>Callout right one</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;If you&amp;rsquo;ve got the time for the studying involved, great! If not, then we&amp;rsquo;re here to help.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:52:09.646Z</createdDate>
+	<createdDate_dt>2021-09-01T13:52:09.646Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:52:09.646Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:52:09.646Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>4a94a090-6aa9-5ddb-602b-606809d7fe35</key>
+	<value>Sec 3</value>
+<component id="4a94a090-6aa9-5ddb-602b-606809d7fe35">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4a94</objectGroupId>
+	<objectId>4a94a090-6aa9-5ddb-602b-606809d7fe35</objectId>
+	<file-name>4a94a090-6aa9-5ddb-602b-606809d7fe35.xml</file-name>
+	<internal-name>Sec 3</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;4. Your risk tolerance&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Every kind of investment has its own level of risk. The risk you take with an investment, however, usually correlates with the potential returns that can be made on that investment.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Therefore, when you make a decision to invest, it&amp;rsquo;s crucial to find a balance between the risk involved and the potential returns available to you. Only you can decide what level of risk you&amp;rsquo;re comfortable with.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you talk to your Velocity Club relationship consultant about this, they&amp;rsquo;ll help you evaluate all of the options and make a decision that is right for you.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:52:31.194Z</createdDate>
+	<createdDate_dt>2021-09-01T13:52:31.194Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:52:31.194Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:52:31.194Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>45e4d5aa-c85d-4511-27bf-41fc66ce4d0e</key>
+	<value>Callout left two</value>
+<component id="45e4d5aa-c85d-4511-27bf-41fc66ce4d0e">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>45e4</objectGroupId>
+	<objectId>45e4d5aa-c85d-4511-27bf-41fc66ce4d0e</objectId>
+	<file-name>45e4d5aa-c85d-4511-27bf-41fc66ce4d0e.xml</file-name>
+	<internal-name>Callout left two</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Every kind of investment has its own level of risk.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:53:04.734Z</createdDate>
+	<createdDate_dt>2021-09-01T13:53:04.734Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:53:04.734Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:53:04.734Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>59b601cd-3172-d5f9-915d-c1ded67ea917</key>
+	<value>Conclusion</value>
+<component id="59b601cd-3172-d5f9-915d-c1ded67ea917">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>59b6</objectGroupId>
+	<objectId>59b601cd-3172-d5f9-915d-c1ded67ea917</objectId>
+	<file-name>59b601cd-3172-d5f9-915d-c1ded67ea917.xml</file-name>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s/>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Conclusion&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Investing is a broad topic that&amp;rsquo;s difficult to cover in a single blog post but we hope that you&amp;rsquo;ve got a better understanding of investing now than before you started reading.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;In this post, we explained the difference between investing and saving. We touched on the different kinds of investments available to you. And finally, we looked at the factors that one must take into consideration when we decide to start investing. The four factors were financial health, time, your budget, and your risk tolerance. These will differ from person to person and so every person&amp;rsquo;s investment decision will be different.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you&amp;rsquo;re a complete beginner and would like to start investing, contact your Velocity Club relationship consultant and they&amp;rsquo;ll help you make investment decisions that are right for you and your financial goals. If you don&amp;rsquo;t yet have a subscription to Velocity Club,&amp;nbsp;&lt;a style="background-color: transparent;" href="/money-plan.html"&gt;click here&lt;/a&gt;&amp;nbsp;to find out more and to sign up!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9; text-align: center;"&gt;&lt;button class="btn btn--primary get_started_post_three_navbar_button" style="font-family: inherit; font-size: var(--btn-font-size); line-height: 1; margin: 0px; overflow: visible; appearance: button; display: inline-flex; position: relative; white-space: nowrap; justify-content: center; padding: var(--space-xs) var(--space-sm); border-radius: var(--btn-radius); border-color: transparent; transition: all 0.2s ease 0s; cursor: pointer; background-color: #e01f26; min-width: 196px; color: #ffffff !important;" role="button" data-tf-slider="Sgz7HGMv" data-tf-width="550" data-tf-hidden="utm_source=CTA,utm_medium=website,utm_campaign=velocityclub_site,utm_term=,utm_content=" data-tf-loaded="true"&gt;Book a session&lt;/button&gt;&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:53:26.130Z</createdDate>
+	<createdDate_dt>2021-09-01T13:53:26.130Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T15:23:28.451Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T15:23:28.451Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<file-name>index.xml</file-name>
+	<folder-name>how-to-start-investing</folder-name>
+	<date_dt>2021-03-16T04:00:00.000Z</date_dt>
+	<createdDate>2021-09-01T13:48:54.944Z</createdDate>
+	<createdDate_dt>2021-09-01T13:48:54.944Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T16:33:27.197Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T16:33:27.197Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-home</content-type>
+	<display-template>/templates/web/pages/home-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<placeInNav>false</placeInNav>
+	<file-name>index.xml</file-name>
+	<internal-name>Home</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<folder-name/>
+	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
+	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T16:25:54.040Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T16:25:54.040Z</lastModifiedDate_dt>
+	<navLabel>Home</navLabel>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>c8f92027-27cd-6e68-4dab-f35c7211822a</key>
+	<value>Complimentary List Home</value>
+<component id="c8f92027-27cd-6e68-4dab-f35c7211822a">
+	<content-type>/component/component-complimentarylist</content-type>
+	<display-template>/templates/web/components/complimentary-list-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c8f9</objectGroupId>
+	<objectId>c8f92027-27cd-6e68-4dab-f35c7211822a</objectId>
+	<listOne_o item-list="true">	<item>	<listItem_s>Do I really need financial products?</listItem_s>
+	</item>	<item>	<listItem_s>Do I have too many or too few financial products?</listItem_s>
+	</item>	<item>	<listItem_s>Can I afford to start a family?</listItem_s>
+	</item></listOne_o>
+	<listTwo_o item-list="true">	<item>	<listItem_s>How much do I need to start saving now to be okay in the future?</listItem_s>
+	</item>	<item>	<listItem_s>I can’t seem to make sense of my budget. I don’t know where my money goes.</listItem_s>
+	</item>	<item>	<listItem_s>I’d really like to start my own business. How do I start saving towards this goal?</listItem_s>
+	</item>	<item>	<listItem_s>I’m in a lot of debt and struggling to get out of it.</listItem_s>
+	</item>	<item>	<listItem_s>I’d like to retire early.</listItem_s>
+	</item></listTwo_o>
+	<file-name>c8f92027-27cd-6e68-4dab-f35c7211822a.xml</file-name>
+	<internal-name>Complimentary List Home</internal-name>
+	<title_s>We’ll help you understand your finances and make better financial decisions.</title_s>
+	<label_s>Learn more</label_s>
+	<url_s>/money-plan</url_s>
+	<createdDate>2021-03-31T13:57:07.252Z</createdDate>
+	<createdDate_dt>2021-03-31T13:57:07.252Z</createdDate_dt>
+	<lastModifiedDate>2021-04-08T11:29:48.306Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-04-08T11:29:48.306Z</lastModifiedDate_dt>
+	<componentClass_s>info-box</componentClass_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>fbb53321-0fa6-d04d-9e8a-84055e9980bf</key>
+	<value>Full width card with left image</value>
+<component id="fbb53321-0fa6-d04d-9e8a-84055e9980bf">
+	<content-type>/component/component-cardfwlm</content-type>
+	<display-template>/templates/web/components/cardfull-lm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fbb5</objectGroupId>
+	<objectId>fbb53321-0fa6-d04d-9e8a-84055e9980bf</objectId>
+	<file-name>fbb53321-0fa6-d04d-9e8a-84055e9980bf.xml</file-name>
+	<internal-name>Full width card with left image</internal-name>
+	<cardFullTitle_s>We'll guide you to a worry-free future</cardFullTitle_s>
+	<imageAlt_s>Hands of a young man, wearing a smart watch, with a pen in his hand signing his Money Guide.</imageAlt_s>
+	<cardFullImage_s/>
+	<cardFullContent_html>&lt;p&gt;Worried about how you're going to save up for that house, start that MBA or support your family when you can barely get by every month?&lt;/p&gt;
+&lt;p&gt;When your finances are in order, it&amp;rsquo;s like a huge weight is lifted off your shoulders and you can see the opportunities in life again. Everything feels like it&amp;rsquo;s under control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Today&amp;rsquo;s your opportunity to take control of your finances and start building the life you want. At Velocity Club, we know about money and we can show you how to make the right decisions to remove the worry and start living the life you want.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are money experts who want you to succeed and offer affordable financial advice that removes the confusing jargon and helps you get on the right track to achieving your money goals.&lt;/p&gt;</cardFullContent_html>
+	<createdDate>2021-03-31T14:25:50.637Z</createdDate>
+	<createdDate_dt>2021-03-31T14:25:50.637Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T12:29:47.421Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T12:29:47.421Z</lastModifiedDate_dt>
+	<cardFullImageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/free future-1-2_section-896x580.jpg</cardFullImageUrl_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>1b9cc1b3-1346-fdc0-f23a-9ce99a1d1bb1</key>
+	<value>Book a session</value>
+<component id="1b9cc1b3-1346-fdc0-f23a-9ce99a1d1bb1">
+	<content-type>/component/component-subscriberm</content-type>
+	<display-template>/templates/web/components/subscriberm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1b9c</objectGroupId>
+	<objectId>1b9cc1b3-1346-fdc0-f23a-9ce99a1d1bb1</objectId>
+	<file-name>1b9cc1b3-1346-fdc0-f23a-9ce99a1d1bb1.xml</file-name>
+	<internal-name>Book a session</internal-name>
+	<subTitle_s>You’re in good hands</subTitle_s>
+	<title_s>That’s the way financial planning should be - centred around you.</title_s>
+	<label_s>Book a session</label_s>
+	<imageAlt_s>A handshake between a financial adviser and his client.</imageAlt_s>
+	<image_s/>
+	<createdDate>2021-04-01T07:41:06.285Z</createdDate>
+	<createdDate_dt>2021-04-01T07:41:06.285Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T16:30:57.540Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T16:30:57.540Z</lastModifiedDate_dt>
+	<imageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/handshake-Content_section.png</imageUrl_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>11e02a30-b887-af3d-3a7e-d7f0cba01212</key>
+	<value>What you can expect</value>
+<component id="11e02a30-b887-af3d-3a7e-d7f0cba01212">
+	<content-type>/component/component-services</content-type>
+	<display-template>/templates/web/components/services-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>11e0</objectGroupId>
+	<objectId>11e02a30-b887-af3d-3a7e-d7f0cba01212</objectId>
+	<column_o item-list="true">	<item>	<heading_s>A personal Relationship Consultant</heading_s>
+	<icon_s>/static-assets/images/icone-01.svg</icon_s>
+	<columnContent_html>&lt;p&gt;To help you make good money decisions with confidence.&lt;/p&gt;</columnContent_html>
+	<colorClass_s>text--white</colorClass_s>
+	</item>	<item>	<heading_s>Advisers you can trust for a lifetime</heading_s>
+	<icon_s>/static-assets/images/icone-02.svg</icon_s>
+	<columnContent_html>&lt;p&gt;Ongoing financial coaching and mentoring to keep you focused on reaching your goals.&lt;/p&gt;</columnContent_html>
+	<colorClass_s>text--white</colorClass_s>
+	</item>	<item>	<heading_s>Team support</heading_s>
+	<icon_s>/static-assets/images/icone-03.svg</icon_s>
+	<columnContent_html>&lt;p&gt;Our team of financial experts are there to support you through the ups and downs of your life journey.&lt;/p&gt;</columnContent_html>
+	<colorClass_s>text--white</colorClass_s>
+	</item></column_o>
+	<internal-name>What you can expect</internal-name>
+	<sectionTitle_s>What you can expect</sectionTitle_s>
+	<file-name>11e02a30-b887-af3d-3a7e-d7f0cba01212.xml</file-name>
+	<createdDate>2021-04-01T08:13:50.900Z</createdDate>
+	<createdDate_dt>2021-04-01T08:13:50.900Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T16:30:43.347Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T16:30:43.347Z</lastModifiedDate_dt>
+	<background_s/>
+	<blockClass_s>info-box</blockClass_s>
+	<colorClass_s>text--white</colorClass_s>
+	<backgroundUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/marble_bg.jpg</backgroundUrl_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>5b26a55f-e83f-9cbf-d254-0d1023a97b95</key>
+	<value>SUBSCRIPTION FEES</value>
+<component id="5b26a55f-e83f-9cbf-d254-0d1023a97b95">
+	<content-type>/component/component-packages</content-type>
+	<display-template>/templates/web/components/packages-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5b26</objectGroupId>
+	<objectId>5b26a55f-e83f-9cbf-d254-0d1023a97b95</objectId>
+	<colOneList_o item-list="true">	<item>	<colOneItem_s>Budget and cash-flow management 101</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Set up an emergency fund</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Get rid of bad debt</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Access to exclusive content and research</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Access to a personal Relationship Consultant</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Access to community events</colOneItem_s>
+	</item></colOneList_o>
+	<colTwoList_o item-list="true">	<item>	<colTwoItem_s>Budget and cash-flow management 101</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Set up an emergency fund</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Get rid of bad debt</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Access to exclusive content and research</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Access to a personal Relationship Consultant</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Access to community events</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Fiduciary and trust services, creating your Will and Estate planning</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Protect your assets</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>S.M.A.R.T goal setting</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Long and short-term goal saving</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Saving for retirement</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Portfolio management</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Tax planning</colTwoItem_s>
+	</item></colTwoList_o>
+	<file-name>5b26a55f-e83f-9cbf-d254-0d1023a97b95.xml</file-name>
+	<internal-name>SUBSCRIPTION FEES</internal-name>
+	<sectionTitle_s>SUBSCRIPTION FEES</sectionTitle_s>
+	<heading_s>Affordable and flexible</heading_s>
+	<label_s>Book a session</label_s>
+	<colOneHeading_s>Money guide</colOneHeading_s>
+	<colOneLine1_s>Get financially healthy</colOneLine1_s>
+	<colOneLine2_s>R99/mo x 6 months</colOneLine2_s>
+	<colTwoHeading_s>Money plan</colTwoHeading_s>
+	<colTwoLine1_s>Get financially wealthy</colTwoLine1_s>
+	<colTwoLine2_s>R199/mo x 6 months</colTwoLine2_s>
+	<content_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;What happens after the 6 month subscription? You're all set up, and on your way to getting financially healthy. Future support is free of charge if you&amp;rsquo;re on the Money Plan package.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Whatever you choose, you are in full control.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;&lt;strong&gt;Still struggling to get financially healthy?&lt;/strong&gt;&amp;nbsp;Take another round of the Money Guide to keep access to Velocity Club support.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;&lt;strong&gt;Ready to start working on your financial wealth?&lt;/strong&gt;&amp;nbsp;Take the Money Plan package for in depth financial planning.&lt;/p&gt;</content_html>
+	<createdDate>2021-09-01T16:26:03.705Z</createdDate>
+	<createdDate_dt>2021-09-01T16:26:03.705Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T16:26:03.705Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T16:26:03.705Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>ff92247a-8525-a038-780d-2139e14bc954</key>
+	<value>About You</value>
+<component id="ff92247a-8525-a038-780d-2139e14bc954">
+	<content-type>/component/component-cardrm</content-type>
+	<display-template>/templates/web/components/cardrm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ff92</objectGroupId>
+	<objectId>ff92247a-8525-a038-780d-2139e14bc954</objectId>
+	<internal-name>About You</internal-name>
+	<title_s>About You</title_s>
+	<imageAlt_s>Young woman casually dressed in a denim shirt, wearing a red head scarf and glasses, looking at her </imageAlt_s>
+	<file-name>ff92247a-8525-a038-780d-2139e14bc954.xml</file-name>
+	<contentImage_s/>
+	<content_html>&lt;p&gt;You&amp;rsquo;re a successful adult. Your career is going places, your social life is happening, and your family life is awesome. Things are on the up and up.&lt;/p&gt;
+&lt;p&gt;Except for that one bad relationship in your life.&lt;/p&gt;
+&lt;p&gt;That relationship. Money.&lt;/p&gt;
+&lt;p&gt;The good news is it&amp;rsquo;s not just you. Money is often a &amp;lsquo;taboo&amp;rsquo; topic that your loved ones, including your parents, probably preferred to avoid. So, you were never taught about it, and now you have a bad relationship with money; or maybe no real relationship at all. You&amp;rsquo;re not alone. This is really common. &lt;strong&gt;But, it&amp;rsquo;s never too late, or too early, to learn good money habits and fix that bad money relationship for good. We&amp;rsquo;ll be with you every step of the way helping you improve your relationship with money.&lt;/strong&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-04-01T09:27:24.471Z</createdDate>
+	<createdDate_dt>2021-04-01T09:27:24.471Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T12:30:52.598Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T12:30:52.598Z</lastModifiedDate_dt>
+	<contentImageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/aboutyou-592x580_Desktop.jpg</contentImageUrl_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>5a9ff84c-dee0-2040-8d79-fa4ad4409973</key>
+	<value>About us</value>
+<component id="5a9ff84c-dee0-2040-8d79-fa4ad4409973">
+	<content-type>/component/component-cardlm</content-type>
+	<display-template>/templates/web/components/cardlm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5a9f</objectGroupId>
+	<objectId>5a9ff84c-dee0-2040-8d79-fa4ad4409973</objectId>
+	<file-name>5a9ff84c-dee0-2040-8d79-fa4ad4409973.xml</file-name>
+	<internal-name>About us</internal-name>
+	<title_s>About us</title_s>
+	<label_s>Learn more</label_s>
+	<url_s>/money-plan</url_s>
+	<imageAlt_s>A relationship consultant and her client looking at his Velocity Club Money Guide on a tablet device.</imageAlt_s>
+	<contentImage_s/>
+	<content_html>&lt;p&gt;We&amp;rsquo;ve lived through many of the same experiences our clients have and understand your struggles and successes. We&amp;rsquo;ve worked with older generations as well; that&amp;rsquo;s why we understand the impact that a few bad money decisions can have on your life and how you can avoid these.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The earlier you get help in making those tough financial decisions, the bigger the positive impact on your life.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With us, you&amp;rsquo;ll have your very own personal Relationship Consultant who will be right by your side for the entire journey.&lt;/p&gt;</content_html>
+	<createdDate>2021-04-01T09:29:30.523Z</createdDate>
+	<createdDate_dt>2021-04-01T09:29:30.523Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T12:33:04.229Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T12:33:04.229Z</lastModifiedDate_dt>
+	<contentImageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/about-us-592x580_Desktop.jpg</contentImageUrl_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>71cd8ff5-4861-005a-7320-9b91b756f82a</key>
+	<value>Relationship consultants</value>
+<component id="71cd8ff5-4861-005a-7320-9b91b756f82a">
+	<content-type>/component/component-sectionlist</content-type>
+	<display-template>/templates/web/components/sectionlist-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>71cd</objectGroupId>
+	<objectId>71cd8ff5-4861-005a-7320-9b91b756f82a</objectId>
+	<list_o item-list="true">	<item>	<listItem_s>Understanding what’s important to you</listItem_s>
+	</item>	<item>	<listItem_s>Helping you build a strong financial foundation by getting financially healthy</listItem_s>
+	</item>	<item>	<listItem_s>Guiding you on how to reach your goals</listItem_s>
+	</item>	<item>	<listItem_s>Building wealth for your family</listItem_s>
+	</item></list_o>
+	<file-name>71cd8ff5-4861-005a-7320-9b91b756f82a.xml</file-name>
+	<internal-name>Relationship consultants</internal-name>
+	<sectionTitle_s>OUR RELATIONSHIP CONSULTANTS</sectionTitle_s>
+	<imageAlt_s>A young male and female, each holding a laptop, talking outside a building.</imageAlt_s>
+	<image_s>/static-assets/images/relationship-Content_section.png</image_s>
+	<createdDate>2021-04-01T09:53:43.886Z</createdDate>
+	<createdDate_dt>2021-04-01T09:53:43.886Z</createdDate_dt>
+	<lastModifiedDate>2021-04-01T10:18:30.273Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-04-01T10:18:30.273Z</lastModifiedDate_dt>
+	<sectionHeading_s>Helping you make good money decisions with confidence.</sectionHeading_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>9ada98c1-4c62-f24b-234d-d03f6a06358e</key>
+	<value>Meet our team</value>
+<component id="9ada98c1-4c62-f24b-234d-d03f6a06358e">
+	<content-type>/component/component-left-media-cardcta</content-type>
+	<display-template>/templates/web/components/cardfull-lm-cta-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9ada</objectGroupId>
+	<objectId>9ada98c1-4c62-f24b-234d-d03f6a06358e</objectId>
+	<file-name>9ada98c1-4c62-f24b-234d-d03f6a06358e.xml</file-name>
+	<internal-name>Meet our team</internal-name>
+	<cardFullImageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/ourteam-1-2_section-896x580.jpg</cardFullImageUrl_s>
+	<imageAlt_s>A financial adviser wearing glasses and her client talking about her finances.</imageAlt_s>
+	<cardFullTitle_s>Meet our team</cardFullTitle_s>
+	<cardContentLabel_s>Meet our team</cardContentLabel_s>
+	<cardFullContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px;"&gt;When you partner with Velocity Club, you&amp;rsquo;ll get access to a team of experts to meet you where you are on your money journey and help you reach your financial goals &amp;ndash; working with what you have.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px;"&gt;&lt;strong&gt;We&amp;rsquo;re a team of Relationship Consultants, actuaries, certified financial planners, tax and investment specialists. All of us are fully invested in your success and we're here to help no matter what life throws at you.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px;"&gt;Backed by trusted financial services group, Momentum, we bring a wealth of industry experience, products and solutions to the table to help you reach your financial goals.&lt;/p&gt;</cardFullContent_html>
+	<createdDate>2021-09-01T08:00:40.367Z</createdDate>
+	<createdDate_dt>2021-09-01T08:00:40.367Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T08:04:07.142Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T08:04:07.142Z</lastModifiedDate_dt>
+	<cardLink_s>/meet-our-team</cardLink_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>6258c995-b9d1-a28c-b899-e24208c6dc7d</key>
+	<value>Sign up</value>
+<component id="6258c995-b9d1-a28c-b899-e24208c6dc7d">
+	<content-type>/component/component-signuprm</content-type>
+	<display-template>/templates/web/components/signuprm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6258</objectGroupId>
+	<objectId>6258c995-b9d1-a28c-b899-e24208c6dc7d</objectId>
+	<file-name>6258c995-b9d1-a28c-b899-e24208c6dc7d.xml</file-name>
+	<internal-name>Sign up</internal-name>
+	<subTitle_s>Sign me Up</subTitle_s>
+	<title_s>Start making the right money moves today</title_s>
+	<label_s>Book a session</label_s>
+	<imageAlt_s>A red pen resting on top of a notebook.</imageAlt_s>
+	<image_s/>
+	<contentBody_html>&lt;p&gt;&lt;strong&gt;Put your goals within reach&lt;/strong&gt;. Leave your details and a Relationship Consultant will call you back.&lt;/p&gt;</contentBody_html>
+	<createdDate>2021-04-01T10:07:53.426Z</createdDate>
+	<createdDate_dt>2021-04-01T10:07:53.426Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T08:13:37.069Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T08:13:37.069Z</lastModifiedDate_dt>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/signup-Content_section.png</image_url_s>
+	<dataSliderId_s>Sgz7HGMv</dataSliderId_s>
+	<utmData_s>utm_source=CTA,utm_medium=website,utm_campaign=velocityclub_site,utm_term=,utm_content=</utmData_s>
+</component>
+	</item></sections_o>
+	<carousels_o item-list="true">	<item datasource="carouselDS">	<key>/site/components/carousel/f7df3195-fb3f-398f-d2ad-fd97f3add023.xml</key>
+	<value>Carousel</value>
+	<include>/site/components/carousel/f7df3195-fb3f-398f-d2ad-fd97f3add023.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></carousels_o>
+</page>

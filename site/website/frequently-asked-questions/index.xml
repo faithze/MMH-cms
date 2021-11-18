@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-frequently-asked-questions</content-type>
+	<display-template>/templates/web/pages/frequently-asked-questions.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9452</objectGroupId>
+	<objectId>94522460-661d-cc25-754a-7522af4713af</objectId>
+	<panels_o item-list="true">	<item>	<heading_s>What is Velocity Club?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Velocity Club is for anyone who has financial goals and needs guidance and support in achieving them.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>Do I need to be a big earner?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;No, we believe in helping you make what you have work for you, regardless of how much that is. Unfortunately, if you have a lot of bad debt, that limits how much we can help you.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>What if I have a lot of bad debt?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;It's important that you focus on building a strong financial foundation and paying off your bad debt (credit card, overdraft, personal loans and retail store accounts). Once you've paid off your bad debt, all of those repayments can rather go towards saving and investing to help you achieve your goals.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>Which financial products do you recommend?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;We only recommend products where you have any shortfalls and if you can afford them. Our most popular products are:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Medical aid cover&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Investments like retirement annuities or tax-free savings products&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Insurance products like income protection, life and funeral cover and critical illness products&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Will drafting services&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</content_html>
+	</item>	<item>	<heading_s>Where do I start?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Schedule a Zoom call with one of our Velocity Club relationship consultants to chat about your goals and they&amp;rsquo;ll take you through our process and answer any questions you may have.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;strong&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;This consultation is for free! &lt;/span&gt;&lt;/strong&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Usually, a session like this could cost up to R1 000.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>What will be discussed in my first meeting?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;In your first meeting, we&amp;rsquo;ll get to know you a little better, what you value and find out what your current and future financial goals are.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>What are the costs for your services?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;You only pay for 6 months' subscription.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;We have 2 packages to choose from:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Money Guide for R99 pm where we help you get the basics in place&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Money Plan for R199 pm where we help you build wealth by looking at how to save for short-term goals and invest for longer term goals&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</content_html>
+	</item>	<item>	<heading_s>What happens after the 6 months subscription period?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;You're all set up, and on your way to getting financially healthy or building your wealth.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;strong&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Future support is free of charge.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>Who will support me?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;You'll have the support of a highly qualified advice team and a personal relationship consultant who will answer your questions and hold you accountable to achieving your goals.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>What if I've already used a financial planner in the past?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;That does't disqualify you in any way. If you have questions and need help making some financial decisions or just want to get a second opinion that you have everything sorted, schedule a call and we&amp;rsquo;ll help you.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>What makes you so confident this will work for me?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;We have an expert financial advisory team with years of experience that don&amp;rsquo;t get paid through commission on products being sold.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Our advice is personalised and speaks to your individual circumstances. We have helped a number of clients smash their Money challenges.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;strong&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;86% of our customers would recommend us to their friends.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Here&amp;rsquo;s what our customers are saying:&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;em&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;"Thank you so much for the Velocity Club offering. It&amp;rsquo;s changed how I think about money and improved my relationship with money. It helped in giving me direction. It might seem small, but this is you all enabling me to break a generational curse for which I am so grateful."&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;P Shandlale&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;em&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;"I'm very pleased that Velocity Club is working for me. Kudos to the team for the brilliant guidance and advice. It's absolutely my money&amp;rsquo;s worth."&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;M Mtshali&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;It&amp;rsquo;s important that you understand the role you also have to play in staying disciplined with your eye on the prize. We&amp;rsquo;ll be there for your entire journey, encouraging you all the way.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>How often will you check up on me?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;At least once a month during the first 6 months, but you&amp;rsquo;re welcome to get in touch with your relationship consultant at any time if you have any questions.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>Do you only recommend Momentum products?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Yes. Our team of advisers invest time in understanding how they work so we can make the most appropriate product recommendations for you.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>Why do you only recommend Momentum products?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Because we work closely with Momentum, it gives us the advantage to process your admin really fast. No more waiting for your adviser to get hold of someone at a big financial services company to answer your question.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;It also gives us the advantage to influence the products Momentum builds so we can be of better service you.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>Can my partner and I join together?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Definitely. We encourage transparency and co-planning for couples. We cater for this through our couples plan package.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;strong&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Fees:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Subscription fee x 2 plus 25% discount to give you that extra motivation to tackle your financial goals as a team.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<heading_s>Are you going to consolidate my debt?</heading_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;No. The recommendations made are only on how to create disposable income so you can pay off your debt faster.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;We&amp;rsquo;ll answer the important questions you have once we understand you and your&lt;/span&gt;&lt;span style="font-family: Arial, sans-serif;"&gt; &lt;span style="color: #202124; background: white;"&gt;circumstances better. This isn&amp;rsquo;t one-size fits all; we give personal advice.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Do I really need financial products?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Do I have too many or too few financial products?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Am I paying too much for the financial products I have?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;Can I afford to start a family?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;How much do I need to start saving and investing now to be okay in the future?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;I can't seem to make sense of my budget. I don't know where my money goes.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;I'd really like to start my own business. How do I start saving towards this goal?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;I'm in a lot of debt - how do I get myself out of debt?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: Arial, sans-serif; color: #202124; background: white;"&gt;I'd like to retire early - can I make that happen?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</content_html>
+	</item></panels_o>
+	<internal-name>Frequently asked questions</internal-name>
+	<navLabel>Frequently asked questions</navLabel>
+	<pagename_s>Frequently asked questions</pagename_s>
+	<pagedescription_s>Our team of financial advisers help you make better financial decisions. We ask, listen and solve by providing you with a Money Guide to help you on your journey to success.</pagedescription_s>
+	<file-name>index.xml</file-name>
+	<folder-name>frequently-asked-questions</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-08-03T08:10:25.829Z</createdDate>
+	<createdDate_dt>2021-08-03T08:10:25.829Z</createdDate_dt>
+	<lastModifiedDate>2021-08-03T14:05:13.105Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-03T14:05:13.105Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9f01</objectGroupId>
+	<objectId>9f014622-2108-3b41-7966-130191b1c725</objectId>
+	<internal-name>Building a resilient career</internal-name>
+	<pageName_s>Building a resilient career</pageName_s>
+	<pageDescription_s>Building a resilient career. We’re fearlessly digging deep into what it means to have a modern, successful career, what that looks like and how to get there.</pageDescription_s>
+	<title_s>Building a resilient career</title_s>
+	<manualDate_s/>
+	<imageAlt_s>Young woman drinking a cup of coffee and holding her cell phone while standing in front of a window while it rains outside.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/building-a-resilient-career-post-image.jpg</image_url_s>
+	<post_id_s/>
+	<disabled>false</disabled>
+	<file-name>index.xml</file-name>
+	<folder-name>building-a-resilient-career</folder-name>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>3f6e0f4b-78a4-dd74-3133-7299c3b02231</key>
+	<value>Intro</value>
+<component id="3f6e0f4b-78a4-dd74-3133-7299c3b02231">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3f6e</objectGroupId>
+	<objectId>3f6e0f4b-78a4-dd74-3133-7299c3b02231</objectId>
+	<file-name>3f6e0f4b-78a4-dd74-3133-7299c3b02231.xml</file-name>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Remember those career counselling classes in school?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Remember how they gave you top quality information about all the different kinds of careers available, what they involved and how you could enter those fields?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;No?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Let me guess - you also just learned about becoming a doctor, a teacher or a lawyer?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Right. Well, good thing you&amp;rsquo;re here because in our upcoming Career Master Class webinar , we&amp;rsquo;re talking about careers.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9; text-align: center;"&gt;&lt;a class="btn btn--primary" style="background-color: #e01f26; display: inline-flex; position: relative; white-space: nowrap; justify-content: center; text-decoration-line: none; line-height: 1; padding: var(--space-xs) var(--space-sm); border-radius: var(--btn-radius); border-color: transparent; font-size: var(--btn-font-size); transition: all 0.2s ease 0s; cursor: pointer; min-width: 196px; min-height: 19px; align-items: center; color: #ffffff !important;" role="button" href="https://event.webinarjam.com/register/144/w8pmmix8" target="_blank" rel="noopener"&gt;Reserve a spot&lt;/a&gt;&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;And before you check out, you need to know that this isn&amp;rsquo;t your high school career counselling either.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Oh no no no.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:55:56.682Z</createdDate>
+	<createdDate_dt>2021-09-01T13:55:56.682Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:55:56.682Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:55:56.682Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>7423389a-2288-55c7-7509-598d2db5ab44</key>
+	<value>Callout blue</value>
+<component id="7423389a-2288-55c7-7509-598d2db5ab44">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7423</objectGroupId>
+	<objectId>7423389a-2288-55c7-7509-598d2db5ab44</objectId>
+	<internal-name>Callout blue</internal-name>
+	<bg_color_s>bg--blue</bg_color_s>
+	<file-name>7423389a-2288-55c7-7509-598d2db5ab44.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #02d2ff;"&gt;We&amp;rsquo;re fearlessly digging deep into what it means to have a modern, successful career, what that looks like and how to get there.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:56:19.747Z</createdDate>
+	<createdDate_dt>2021-09-01T13:56:19.747Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:56:19.747Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:56:19.747Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>a6d957b2-46dd-d75e-abb7-3ac900a20987</key>
+	<value>Sec 1</value>
+<component id="a6d957b2-46dd-d75e-abb7-3ac900a20987">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a6d9</objectGroupId>
+	<objectId>a6d957b2-46dd-d75e-abb7-3ac900a20987</objectId>
+	<file-name>a6d957b2-46dd-d75e-abb7-3ac900a20987.xml</file-name>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We&amp;rsquo;ve brought in a leading expert on careers, and we&amp;rsquo;re going way past the lame lessons you got in high school. We&amp;rsquo;re fearlessly digging deep into what it means to have a modern, successful career, what that looks like and how to get there. So put on your hard hat, grab your shovel and hop into this mine shaft elevator.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Or, you know, just keep reading and then register to watch the webinar. Either way.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Why do we care about your career?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Because your success is our success.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If your career path is successful, you can look forward to a successful future with the ability to accumulate and build wealth in the long term. But building wealth in your career requires making savvy financial decisions, which your Velocity Club Experts are there to help you with every step of the way.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What is a career?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;It&amp;rsquo;s your job; your occupation. The thing you do to earn money every day.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:56:44.197Z</createdDate>
+	<createdDate_dt>2021-09-01T13:56:44.197Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:56:44.197Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:56:44.197Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>27bfb59b-b2ef-ed2c-fc26-972a1c204f42</key>
+	<value>Callout left one</value>
+<component id="27bfb59b-b2ef-ed2c-fc26-972a1c204f42">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>27bf</objectGroupId>
+	<objectId>27bfb59b-b2ef-ed2c-fc26-972a1c204f42</objectId>
+	<internal-name>Callout left one</internal-name>
+	<file-name>27bfb59b-b2ef-ed2c-fc26-972a1c204f42.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;If your career path is successful, you can look forward to a successful future with the ability to accumulate and build wealth in the long term.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:57:13.774Z</createdDate>
+	<createdDate_dt>2021-09-01T13:57:13.774Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:57:13.774Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:57:13.774Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>5a0b3f4e-77a5-26b3-e12c-bfc5b6df821f</key>
+	<value>Sec 2</value>
+<component id="5a0b3f4e-77a5-26b3-e12c-bfc5b6df821f">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5a0b</objectGroupId>
+	<objectId>5a0b3f4e-77a5-26b3-e12c-bfc5b6df821f</objectId>
+	<internal-name>Sec 2</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>5a0b3f4e-77a5-26b3-e12c-bfc5b6df821f.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The type of career you choose can have a big impact on your overall happiness and on your future success not just financially but in your personal life, too.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Your decisions around career choices can be influenced by many things, including your educational background, your social and economic environment, and even your political beliefs and spiritual life. The decisions you make as a result of these influences are important and potentially life-changing, so it&amp;rsquo;s really important that you get it right.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;No pressure, amirite?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Thankfully, we live in a connected world with experts, one of whom you&amp;rsquo;ll hear from in the webinar, sharing insights with you on building a resilient career.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What does the future hold for your career?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If your career path had a hashtag, it would say #FourthIndustrialRevolution.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:57:36.794Z</createdDate>
+	<createdDate_dt>2021-09-01T13:57:36.794Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:57:36.794Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:57:36.794Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>39834d7b-bfde-698d-46bb-7c5724f37552</key>
+	<value>Callout right one</value>
+<component id="39834d7b-bfde-698d-46bb-7c5724f37552">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3983</objectGroupId>
+	<objectId>39834d7b-bfde-698d-46bb-7c5724f37552</objectId>
+	<file-name>39834d7b-bfde-698d-46bb-7c5724f37552.xml</file-name>
+	<internal-name>Callout right one</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Being successful in your career in this new era is going to require resilience, mobility, adaptability and an appetite for life-long learning.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:58:02.700Z</createdDate>
+	<createdDate_dt>2021-09-01T13:58:02.700Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:58:02.700Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:58:02.700Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>005ecb46-1e81-ff62-981f-77da261e97af</key>
+	<value>Sec 3</value>
+<component id="005ecb46-1e81-ff62-981f-77da261e97af">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>005e</objectGroupId>
+	<objectId>005ecb46-1e81-ff62-981f-77da261e97af</objectId>
+	<internal-name>Sec 3</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>005ecb46-1e81-ff62-981f-77da261e97af.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Or maybe it wouldn&amp;rsquo;t. It would probably be something trendier.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;But no matter the hashtag, the key thing for you to know is that the Fourth Industrial Revolution is here and it&amp;rsquo;s already changing the way we live, work and socialise.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Most of all, it&amp;rsquo;s impacting your career. Even if you think it isn&amp;rsquo;t.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Being successful in your career in this new era is going to require resilience, mobility, adaptability and an appetite for life-long learning. The days of our parents where a career was a 20-year commitment to one or two companies are long gone. If you&amp;rsquo;re going to survive and thrive, you will need to be prepared for constant change, constant learning and have a hunger to succeed.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;When you join our upcoming Career Master Class webinar, you will be given a free career plan template to help you plan your decisions and design your career for success in this&amp;nbsp;&lt;a style="background-color: transparent;" href="/articles/2021/2/bouncing-back-from-the-pandemic"&gt;brave new world&lt;/a&gt;. This will help you:&lt;/p&gt;
+&lt;ul style="color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;
+&lt;li&gt;Learn about who you are and what drives you in your career path choices.&lt;/li&gt;
+&lt;li&gt;Understand what kind of work environment would suit you best and what that means for your potential career options.&lt;/li&gt;
+&lt;li&gt;Set up career goals, including how to identify the right goals, and how to reach them.&lt;/li&gt;
+&lt;li&gt;Take action and chase that career you deserve.&lt;/li&gt;
+&lt;/ul&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:58:26.887Z</createdDate>
+	<createdDate_dt>2021-09-01T13:58:26.887Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T15:16:55.811Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T15:16:55.811Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>f8226c19-2a88-7d54-414d-edbdc1b0d7f8</key>
+	<value>Callout left two</value>
+<component id="f8226c19-2a88-7d54-414d-edbdc1b0d7f8">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f822</objectGroupId>
+	<objectId>f8226c19-2a88-7d54-414d-edbdc1b0d7f8</objectId>
+	<file-name>f8226c19-2a88-7d54-414d-edbdc1b0d7f8.xml</file-name>
+	<internal-name>Callout left two</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Investing in yourself and your career by putting meaningful plans in place, will give you the best chances of success.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:59:15.305Z</createdDate>
+	<createdDate_dt>2021-09-01T13:59:15.305Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:59:15.305Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:59:15.305Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>3db11a06-abea-03e2-6ff5-933f070836c5</key>
+	<value>Conclusion</value>
+<component id="3db11a06-abea-03e2-6ff5-933f070836c5">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3db1</objectGroupId>
+	<objectId>3db11a06-abea-03e2-6ff5-933f070836c5</objectId>
+	<file-name>3db11a06-abea-03e2-6ff5-933f070836c5.xml</file-name>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Investing in yourself and your career by putting&amp;nbsp;&lt;a style="background-color: transparent;" href="/articles/2020/10/credit-score-101"&gt;meaningful plans&lt;/a&gt;&amp;nbsp;in place, will give you the best chances of success.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Speaking of success, here at Velocity Club, we&amp;rsquo;re also experts at helping you make great financial choices.&amp;nbsp;&lt;a style="background-color: transparent;" href="/expert-opinions"&gt;Our blog page&lt;/a&gt;&amp;nbsp;is full of helpful advice to get you started on a&amp;nbsp;&lt;a style="background-color: transparent;" href="/articles/2020/10/building-your-financial-future"&gt;path to financial success&lt;/a&gt;. If you&amp;rsquo;ve already read them, or if you&amp;rsquo;d rather just talk to a human about your financial future, we&amp;rsquo;d love to hear from you. Contact us today for a consultation with a Velocity Club expert. We&amp;rsquo;re waiting for your call.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you enjoyed what you&amp;rsquo;ve read here today and you&amp;rsquo;re ready to dive into this topic, then our upcoming Career Master Class webinar is required viewing.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9; text-align: center;"&gt;&lt;a class="btn btn--primary" style="background-color: #e01f26; display: inline-flex; position: relative; white-space: nowrap; justify-content: center; text-decoration-line: none; line-height: 1; padding: var(--space-xs) var(--space-sm); border-radius: var(--btn-radius); border-color: transparent; font-size: var(--btn-font-size); transition: all 0.2s ease 0s; cursor: pointer; min-width: 196px; min-height: 19px; align-items: center; color: #ffffff !important;" role="button" href="https://event.webinarjam.com/register/144/w8pmmix8" target="_blank" rel="noopener"&gt;Reserve a spot&lt;/a&gt;&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Your future depends on it.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;See you there!&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:59:38.907Z</createdDate>
+	<createdDate_dt>2021-09-01T13:59:38.907Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T15:18:12.914Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T15:18:12.914Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<date_dt>2021-04-23T04:00:00.000Z</date_dt>
+	<createdDate>2021-09-01T13:54:43.462Z</createdDate>
+	<createdDate_dt>2021-09-01T13:54:43.462Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T15:16:28.286Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T15:16:28.286Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

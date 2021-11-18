@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3e77</objectGroupId>
+	<objectId>3e774f96-d673-10ac-12ea-7f81deb12737</objectId>
+	<disabled>false</disabled>
+	<internal-name>Debt holidays</internal-name>
+	<pageName_s>Debt holidays | Should I take a payment holiday?</pageName_s>
+	<pageDescription_s>Considering taking a payment holiday? Speak to a financial adviser about how it could impact your financial health and goals.</pageDescription_s>
+	<title_s>Debt holidays</title_s>
+	<manualDate_s/>
+	<imageAlt_s>A man wearing a white shirt working on his laptop with one hand and holding his current account bank card in his other hand.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/article7-1-2_section-896x580.jpg</image_url_s>
+	<post_id_s/>
+	<file-name>index.xml</file-name>
+	<folder-name>debt-holiday</folder-name>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>9bf42a7e-38c4-1d6c-03c7-689bce7b4886</key>
+	<value>Intro</value>
+<component id="9bf42a7e-38c4-1d6c-03c7-689bce7b4886">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9bf4</objectGroupId>
+	<objectId>9bf42a7e-38c4-1d6c-03c7-689bce7b4886</objectId>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<file-name>9bf42a7e-38c4-1d6c-03c7-689bce7b4886.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;&amp;ldquo;Ugh, I really don&amp;rsquo;t need a holiday&amp;rdquo; said nobody ever.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;So when the banks told us they were offering holidays, naturally our minds jumped to places like the beaches of Bali and Mauritius, and the caf&amp;eacute;s of France.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Except, for one thing:&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;They weren&amp;rsquo;t offering us actual holidays. There was no Bali. Or Mauritius. Or baguettes in Paris.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;[The fact that there were no flights to actually get us there is beside the point anyway mmkay].&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Once we were done crying into our pillows, we realised that the holidays the banks were referring to were actually payment holidays for our debt with them.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We also heard from you that you had a lot of questions about what these payment holidays are and whether you should consider making use of these offers. So in that spirit, let&amp;rsquo;s unpack some of the main questions and hopefully give you the answers:&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What is a payment holiday (payment relief) offered by banks?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;It&amp;rsquo;s an agreement between you and the bank that allows you (under specific circumstances) to temporarily stop or reduce the monthly instalment payable on a home loan, vehicle loan or personal loan. Most banks this year offered a 3 month payment holiday (April, May and June). That means that for those 3 months, the bank will not expect you to pay any loan instalments.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you had lost your job during the lockdown, this was an opportunity for you to get some breathing room to either find another job or make some other arrangement to ensure that you could resume payments again at the end of the holiday.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you had opted for a payment holiday, this was not going to impact your credit score.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Does anyone or any loan qualify for payment holidays?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;No, the loan must meet certain qualifying criteria. For example, holidays are mainly only available on certain fixed term loans (meaning, not credit cards) and only for clients who are in good standing with their banks (up to date with repayments and being on their best repayment behaviour).&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Why are banks offering payment holidays?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The answer to that is simple: Your money needed to just get away from it all for a while.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Just kidding.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The actual reason is the banks wanted to make sure that they don&amp;rsquo;t lose clients through clients not being able to make payments. Because otherwise, the banks would need to employ expensive lawyers and debt collectors to send you threatening legal letters until you pay up.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What&amp;rsquo;s the catch?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;You knew this part was coming, so here it is:&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Skipping 3 months of repayments is not free.&lt;/h2&gt;</sectionContent_html>
+	<createdDate>2021-09-01T10:37:28.816Z</createdDate>
+	<createdDate_dt>2021-09-01T10:37:28.816Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:37:28.816Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:37:28.816Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>45c77034-b24e-c612-57a4-eb2800530aef</key>
+	<value>Callout blue</value>
+<component id="45c77034-b24e-c612-57a4-eb2800530aef">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>45c7</objectGroupId>
+	<objectId>45c77034-b24e-c612-57a4-eb2800530aef</objectId>
+	<file-name>45c77034-b24e-c612-57a4-eb2800530aef.xml</file-name>
+	<internal-name>Callout blue</internal-name>
+	<bg_color_s>bg--blue</bg_color_s>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #02d2ff;"&gt;While you&amp;rsquo;re enjoying having some breathing room, the banks are still adding interest and loan administration fees to your loan accounts.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T10:38:01.582Z</createdDate>
+	<createdDate_dt>2021-09-01T10:38:01.582Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:38:01.582Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:38:01.582Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>52800d43-d40b-2c69-c35e-d245488c4c37</key>
+	<value>Sec 1</value>
+<component id="52800d43-d40b-2c69-c35e-d245488c4c37">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5280</objectGroupId>
+	<objectId>52800d43-d40b-2c69-c35e-d245488c4c37</objectId>
+	<file-name>52800d43-d40b-2c69-c35e-d245488c4c37.xml</file-name>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;These costs run as normal regardless. Usually, the banks will extend the term of your loan to ensure that your repayment amount doesn&amp;rsquo;t increase once your payment holiday is up. This extension might be for longer than 3 months because the banks want to ensure that they don&amp;rsquo;t lose out on the interest income they would&amp;rsquo;ve earned during the holiday period.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Example: By taking only a one month payment holiday on a loan of R10 000 (with a term of 36 months at 28% interest), it will mean that it will extend the repayment term from 36 to 39 months. The monthly instalment of R606.19 remains the same; however your total cost of credit will increase as at the end of the extended term, you will end up paying R23 035 instead of R21 822. Therefore, the total cost of a 1 month payment holiday is around R1 200.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The longer the term of your debt (e.g. home loans), the longer the extension will be and the higher the cost for you in the long run.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Example: On a R1m home loan, a 3 month payment holiday can extend the term with an additional 8 months of payments you need to make. For this example, it equates to close to R60 000 of additional costs which you will have to fork out and pay over the remaining term.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;How do I know when to consider taking up a payment holiday offer from the bank?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Interest rates have fallen to lows not seen in decades, which means you probably have more cash available than you assume. So before you make a decision about payment holidays, check your new instalment due (taking the latest rate drops into account), and see how that fits into your budget and cash flow needs before just accepting a payment holiday.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T10:39:03.482Z</createdDate>
+	<createdDate_dt>2021-09-01T10:39:03.482Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:39:03.482Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:39:03.482Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>2c6b5993-b654-8140-f145-268adbf2dd9a</key>
+	<value>Callout left one</value>
+<component id="2c6b5993-b654-8140-f145-268adbf2dd9a">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2c6b</objectGroupId>
+	<objectId>2c6b5993-b654-8140-f145-268adbf2dd9a</objectId>
+	<file-name>2c6b5993-b654-8140-f145-268adbf2dd9a.xml</file-name>
+	<internal-name>Callout left one</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Payment holidays may seem like the perfect answer to any money troubles, but you need to be aware that it doesn&amp;rsquo;t come for free. You need to know how it will impact you in the long run.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T10:39:38.776Z</createdDate>
+	<createdDate_dt>2021-09-01T10:39:38.776Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:39:38.776Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:39:38.776Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>7f58575c-104a-80d3-879f-77f3086b8579</key>
+	<value>Conclusion</value>
+<component id="7f58575c-104a-80d3-879f-77f3086b8579">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7f58</objectGroupId>
+	<objectId>7f58575c-104a-80d3-879f-77f3086b8579</objectId>
+	<file-name>7f58575c-104a-80d3-879f-77f3086b8579.xml</file-name>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What do I do if I still need help in making the right choice for my circumstances?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Please reach out to your Velocity Club relationship consultant. We&amp;rsquo;re here to help. We have the skills and expertise to help you make an informed decision, understanding how a payment holiday could impact your financial health and your goals.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T10:40:17.188Z</createdDate>
+	<createdDate_dt>2021-09-01T10:40:17.188Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:40:17.188Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:40:17.188Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<date_dt>2020-10-02T04:00:00.000Z</date_dt>
+	<createdDate>2021-09-01T10:34:44.833Z</createdDate>
+	<createdDate_dt>2021-09-01T10:34:44.833Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:34:44.833Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:34:44.833Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

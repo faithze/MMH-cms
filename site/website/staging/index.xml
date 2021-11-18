@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-generic</content-type>
+	<display-template>/templates/web/pages/generic-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6d2c</objectGroupId>
+	<objectId>6d2cb4db-f822-cf89-d730-4586523b0642</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Staging</internal-name>
+	<navLabel>Staging</navLabel>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>4c063547-6f8b-c2e3-967c-028f526e7496</key>
+	<value>Staging</value>
+<component id="4c063547-6f8b-c2e3-967c-028f526e7496">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4c06</objectGroupId>
+	<objectId>4c063547-6f8b-c2e3-967c-028f526e7496</objectId>
+	<internal-name>Staging</internal-name>
+	<sectionClass_s/>
+	<file-name>4c063547-6f8b-c2e3-967c-028f526e7496.xml</file-name>
+	<sectionContent_html>&lt;p&gt;This is a staging test.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-07-30T09:58:23.980Z</createdDate>
+	<createdDate_dt>2021-07-30T09:58:23.980Z</createdDate_dt>
+	<lastModifiedDate>2021-07-30T09:58:23.980Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-30T09:58:23.980Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>staging</folder-name>
+	<createdDate>2021-07-30T09:57:56.315Z</createdDate>
+	<createdDate_dt>2021-07-30T09:57:56.315Z</createdDate_dt>
+	<lastModifiedDate>2021-07-30T09:57:56.315Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-30T09:57:56.315Z</lastModifiedDate_dt>
+</page>

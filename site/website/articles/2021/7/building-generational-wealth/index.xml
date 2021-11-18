@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f112</objectGroupId>
+	<objectId>f1128ca2-4381-b222-c7a5-ea2572a0f7ae</objectId>
+	<disabled>false</disabled>
+	<internal-name>Building generational wealth</internal-name>
+	<pageName_s>Building generational wealth</pageName_s>
+	<pageDescription_s>What is generational wealth? Why do we all want generational wealth? Where do we start to get it? Speak to a Momentum Velocity Club financial adviser to understand how to start building generational wealth today.</pageDescription_s>
+	<title_s>Building generational wealth</title_s>
+	<manualDate_s/>
+	<imageAlt_s>Red Lamborghini parked in a parking lot.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/luxurious-red-car-parked-in-parking-lot.jpg</image_url_s>
+	<post_id_s/>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>4fb59eb4-5471-db93-cf44-e17d9c85fc24</key>
+	<value>Intro</value>
+<component id="4fb59eb4-5471-db93-cf44-e17d9c85fc24">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4fb5</objectGroupId>
+	<objectId>4fb59eb4-5471-db93-cf44-e17d9c85fc24</objectId>
+	<file-name>4fb59eb4-5471-db93-cf44-e17d9c85fc24.xml</file-name>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;It&amp;rsquo;s probably safe for me to assume that you&amp;rsquo;ve watched a Hollywood movie or two in your time, right?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Chances are that at least one of those movies featured a trust fund baby somewhere in the plot. You know the character I&amp;rsquo;m talking about. It&amp;rsquo;s always an unemployed yet suspiciously rich kid with expensive sports car and overpriced designer clothes. And lots of very expensive hobbies for some reason.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Be honest. You were still a bit jealous of that trust fund kid, weren&amp;rsquo;t you? Just a little.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T14:17:58.841Z</createdDate>
+	<createdDate_dt>2021-09-01T14:17:58.841Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T14:17:58.841Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T14:17:58.841Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>10b9605b-2798-76dd-595f-ec3219fecfab</key>
+	<value>Callout green</value>
+<component id="10b9605b-2798-76dd-595f-ec3219fecfab">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>10b9</objectGroupId>
+	<objectId>10b9605b-2798-76dd-595f-ec3219fecfab</objectId>
+	<file-name>10b9605b-2798-76dd-595f-ec3219fecfab.xml</file-name>
+	<internal-name>Callout green</internal-name>
+	<bg_color_s>bg--green</bg_color_s>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #29e56f;"&gt;Unfortunately, we don&amp;rsquo;t have a magic spell to turn you into a trust fund kid from the movies.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T14:18:27.181Z</createdDate>
+	<createdDate_dt>2021-09-01T14:18:27.181Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T14:18:27.181Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T14:18:27.181Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>de743862-60e4-b9c7-2455-aecfc1bd1198</key>
+	<value>Sec 1</value>
+<component id="de743862-60e4-b9c7-2455-aecfc1bd1198">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>de74</objectGroupId>
+	<objectId>de743862-60e4-b9c7-2455-aecfc1bd1198</objectId>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>de743862-60e4-b9c7-2455-aecfc1bd1198.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;But, we do have something even better: We have the knowledge to teach you the fundamentals about&amp;nbsp;&lt;a style="background-color: transparent;" href="/articles/2021/3/how-to-start-investing"&gt;building wealth&lt;/a&gt;&amp;nbsp;so that your family could be trust fund babies! While we definitely can&amp;rsquo;t guarantee that they&amp;rsquo;ll have expensive sports cars or designer clothes, we can certainly show you how to&amp;nbsp;&lt;a style="background-color: transparent;" href="/articles/2021/3/how-to-start-investing"&gt;plan your finances&lt;/a&gt;&amp;nbsp;so that you give them a leg up with the more important things in life.&lt;/p&gt;
+&lt;div class="aspect-ratio" style="color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;&lt;img style="border-style: none; width: 591.938px; border-radius: 4px;" src="https://www.velocityclub.co.za/images/family-of-three-smiling-with-joy.jpg" alt="Mom and dad with their young son smile happily." /&gt;&lt;/div&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Today, we&amp;rsquo;re talking about building generational wealth. We&amp;rsquo;re going to show you our top three tips for creating wealth to ensure that your family has a head start in their financial lives. But first:&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What is generational wealth?&lt;/h2&gt;</sectionContent_html>
+	<createdDate>2021-09-01T14:18:55.734Z</createdDate>
+	<createdDate_dt>2021-09-01T14:18:55.734Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T15:08:38.322Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T15:08:38.322Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>62705748-b675-367a-bbd6-b01a53f787cb</key>
+	<value>Callout left one</value>
+<component id="62705748-b675-367a-bbd6-b01a53f787cb">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6270</objectGroupId>
+	<objectId>62705748-b675-367a-bbd6-b01a53f787cb</objectId>
+	<file-name>62705748-b675-367a-bbd6-b01a53f787cb.xml</file-name>
+	<internal-name>Callout left one</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Notice that I used &amp;lsquo;wealth&amp;rsquo; and not simply &amp;lsquo;money&amp;rsquo;. That&amp;rsquo;s because &amp;lsquo;wealth&amp;rsquo; refers to more than simply cash in the bank. It can also refer to things like real estate, or stock market investments, and many others.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T14:20:03.617Z</createdDate>
+	<createdDate_dt>2021-09-01T14:20:03.617Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T14:20:03.617Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T14:20:03.617Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>3a8b6ed5-cf13-b266-196a-1f7150efa995</key>
+	<value>Sec 2</value>
+<component id="3a8b6ed5-cf13-b266-196a-1f7150efa995">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3a8b</objectGroupId>
+	<objectId>3a8b6ed5-cf13-b266-196a-1f7150efa995</objectId>
+	<internal-name>Sec 2</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>3a8b6ed5-cf13-b266-196a-1f7150efa995.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Generational wealth is a vital financial tool for building true, lasting wealth within families. Here are our top three tips for building your own family&amp;rsquo;s financial legacy.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;1. Fall in love with saving and investing&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Investing your money is an important tool for building wealth not only for your family but for your immediate future as well. If you&amp;rsquo;re not sure how to get started investing, we&amp;rsquo;ve&amp;nbsp;&lt;a style="background-color: transparent;" href="/articles/2021/3/how-to-start-investing"&gt;written a handy guide here&lt;/a&gt;. Or simply ask your Velocity Club relationship consultant for advice.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Becoming a savvy investor is a critical first step to creating significant generational wealth. There are many routes you can take to building your own successful investment portfolio. For example, you might decide to&amp;nbsp;&lt;a style="background-color: transparent;" href="/articles/2020/10/residential-property-the-ins-and-outs"&gt;put your money into property&lt;/a&gt;, or you could start your own business. Perhaps you&amp;rsquo;d rather invest your money in the stock market. Or maybe your strategy involves a bit of each. Whichever option you choose, the goal here is to grow your money, in order to grow your overall wealth.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T14:20:23.481Z</createdDate>
+	<createdDate_dt>2021-09-01T14:20:23.481Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T15:09:55.304Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T15:09:55.304Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>330126ae-a5cc-0a69-fcc3-1ff332fa4523</key>
+	<value>Callout right one</value>
+<component id="330126ae-a5cc-0a69-fcc3-1ff332fa4523">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3301</objectGroupId>
+	<objectId>330126ae-a5cc-0a69-fcc3-1ff332fa4523</objectId>
+	<file-name>330126ae-a5cc-0a69-fcc3-1ff332fa4523.xml</file-name>
+	<internal-name>Callout right one</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Another option is to save money for your children&amp;rsquo;s education. Education is something that nobody can ever take away from you, but it&amp;rsquo;s also expensive and consequently, many people miss out on opportunities simply because they don&amp;rsquo;t have the education to pursue them.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T14:21:53.564Z</createdDate>
+	<createdDate_dt>2021-09-01T14:21:53.564Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T14:21:53.564Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T14:21:53.564Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>2f7199cb-e438-2fbf-ba79-e52d9e1097bc</key>
+	<value>Sec 3</value>
+<component id="2f7199cb-e438-2fbf-ba79-e52d9e1097bc">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2f71</objectGroupId>
+	<objectId>2f7199cb-e438-2fbf-ba79-e52d9e1097bc</objectId>
+	<file-name>2f7199cb-e438-2fbf-ba79-e52d9e1097bc.xml</file-name>
+	<internal-name>Sec 3</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Of course, we understand that&amp;nbsp;&lt;a style="background-color: transparent;" href="/articles/2021/2/bouncing-back-from-the-pandemic"&gt;things are tough&lt;/a&gt;&amp;nbsp;right now and saving money can be difficult. The good news is that we know what you&amp;rsquo;re going through and we&amp;rsquo;ve got the resources and the experts to help you with all the&amp;nbsp;&lt;a style="background-color: transparent;" href="/articles/2020/10/in-the-spirit-of-halloween-here-are-3-money-tricks-to-avoid"&gt;financial tips&lt;/a&gt;&amp;nbsp;you need to get a reasonable investment portion out of&amp;nbsp;&lt;a style="background-color: transparent;" href="/articles/2021/5/working-from-home-here-s-how-you-could-pay-less-tax"&gt;your income every month&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;2. Protect your wealth and create a will&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Life insurance policies allow you to provide for your family in the event that you unexpectedly pass away. And therefore, it&amp;rsquo;s a tool to protect the wealth that you have been working so hard to build. For that reason, insurance is a critical tool in planning for your family&amp;rsquo;s financial needs. A decent policy will ensure that your family isn&amp;rsquo;t forced into undesirable living conditions if you&amp;rsquo;re unable to provide for them.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T14:22:15.361Z</createdDate>
+	<createdDate_dt>2021-09-01T14:22:15.361Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T15:11:46.045Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T15:11:46.045Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>640ad5ba-a3e0-ea33-7f83-c69af5bef12f</key>
+	<value>Callout left two</value>
+<component id="640ad5ba-a3e0-ea33-7f83-c69af5bef12f">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>640a</objectGroupId>
+	<objectId>640ad5ba-a3e0-ea33-7f83-c69af5bef12f</objectId>
+	<file-name>640ad5ba-a3e0-ea33-7f83-c69af5bef12f.xml</file-name>
+	<internal-name>Callout left two</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;On the topic of providing for your kids when you pass away, having a properly written Will is absolutely essential for this. A Will is a legal document that explains what should happen to your assets when you pass away. If your goal is to create generational wealth, then your Will is the tool that is going to make that happen.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T14:24:16.761Z</createdDate>
+	<createdDate_dt>2021-09-01T14:24:16.761Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T14:24:16.761Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T14:24:16.761Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>12145ed3-ff60-2d98-f6d0-649d7f3df0c6</key>
+	<value>Sec 4</value>
+<component id="12145ed3-ff60-2d98-f6d0-649d7f3df0c6">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1214</objectGroupId>
+	<objectId>12145ed3-ff60-2d98-f6d0-649d7f3df0c6</objectId>
+	<internal-name>Sec 4</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>12145ed3-ff60-2d98-f6d0-649d7f3df0c6.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The reason that a Will is so important is that if you die and you haven&amp;rsquo;t left a Will, then your assets will be distributed according to legislation governing estates. In simple terms, that means that the government will decide who gets what, and it might not be the people whom you wanted, or in the way you wanted it. So for that reason, you really need to ensure that you have a legally sound Will in place.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;But also, a Will should limit disputes amongst your family about who should get what. Your death will naturally be upsetting for your family, so the last thing we want is to create more drama for them.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We suggest that you get your Will drafted asap because it&amp;rsquo;s just so important. Please don&amp;rsquo;t leave it.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;3. Discuss it with your kids&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you&amp;rsquo;re serious about creating generational wealth, then the best thing you can do is to involve your adult kids in all discussions around estate planning and how to manage your assets and belongings after you pass away.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T14:24:38.409Z</createdDate>
+	<createdDate_dt>2021-09-01T14:24:38.409Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T14:24:38.409Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T14:24:38.409Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>93f59076-ba5e-a160-9eae-3af17dfef343</key>
+	<value>Callout right two</value>
+<component id="93f59076-ba5e-a160-9eae-3af17dfef343">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>93f5</objectGroupId>
+	<objectId>93f59076-ba5e-a160-9eae-3af17dfef343</objectId>
+	<internal-name>Callout right two</internal-name>
+	<file-name>93f59076-ba5e-a160-9eae-3af17dfef343.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;In order to ensure that the generational wealth that you&amp;rsquo;ve begun building is continued and built on by your children, you need to talk to them about your philosophy for the future.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T14:25:08.513Z</createdDate>
+	<createdDate_dt>2021-09-01T14:25:08.513Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T14:25:08.513Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T14:25:08.513Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>3f187fbe-b443-e3ab-4d6d-7f0925a346ca</key>
+	<value>Conclusion</value>
+<component id="3f187fbe-b443-e3ab-4d6d-7f0925a346ca">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3f18</objectGroupId>
+	<objectId>3f187fbe-b443-e3ab-4d6d-7f0925a346ca</objectId>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<file-name>3f187fbe-b443-e3ab-4d6d-7f0925a346ca.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Have an open, transparent and ongoing conversation with them about how you created the wealth, what sacrifices you made to get there, and the purposes you envision for the wealth you&amp;rsquo;ve started building. By ensuring that the next generation understands the way in which your wealth is structured, you can ensure that they are equipped to receive and manage it responsibly in the future.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Conclusion&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Building generational wealth is a fantastic legacy project to ensure that your family is properly taken care of. Today, we&amp;rsquo;ve discussed the three main elements of generational wealth building. Those were - learning how to invest your money, taking out life insurance and drafting a Will, and finally, having an ongoing conversation with your children about how you want the family&amp;rsquo;s money to be managed when you pass away.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We want to empower you with all of the information you need to succeed in your wealth-building journey. If you&amp;rsquo;d like to set up a call with one of our relationship consultants, you can do so&amp;nbsp;&lt;a style="background-color: transparent; color: var(--color-black);" data-tf-slider="Sgz7HGMv" data-tf-width="550" data-tf-hidden="utm_source=CTA,utm_medium=website,utm_campaign=velocityclub_site,utm_term=,utm_content=" data-tf-loaded="true"&gt;here&lt;/a&gt;&amp;nbsp;and if you&amp;rsquo;d like to learn how to start investing, you can join our free 20-minute Masterclass with Financial Journalist, Arabile Gumede,&amp;nbsp;&lt;a style="background-color: transparent;" href="https://event.webinarjam.com/register/148/6kxyyt89" target="_blank" rel="noopener"&gt;here&lt;/a&gt;.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T14:25:31.236Z</createdDate>
+	<createdDate_dt>2021-09-01T14:25:31.236Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T15:29:32.332Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T15:29:32.332Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<file-name>index.xml</file-name>
+	<folder-name>building-generational-wealth</folder-name>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<date_dt>2021-07-13T04:00:00.000Z</date_dt>
+	<createdDate>2021-09-01T14:16:46.712Z</createdDate>
+	<createdDate_dt>2021-09-01T14:16:46.712Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T15:29:26.832Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T15:29:26.832Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

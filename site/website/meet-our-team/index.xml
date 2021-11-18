@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-team</content-type>
+	<display-template>/templates/web/pages/team-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4e38</objectGroupId>
+	<objectId>4e386004-9247-64cd-dee0-f6ae82870def</objectId>
+	<internal-name>Our team</internal-name>
+	<navLabel>Our team</navLabel>
+	<cardTitle_s>Meet our team</cardTitle_s>
+	<buttonLabel_s>Book a session</buttonLabel_s>
+	<imageSrc_s>https://d1sdgqff4ryo7u.cloudfront.net/images/Our-Team-Hero-Section.png</imageSrc_s>
+	<imageAlt_s>Young African man sitting in front of his laptop booking a call with his Velocity Club Relationship Consultant.</imageAlt_s>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>33000</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>meet-our-team</folder-name>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>b20c0d50-84dc-e008-d738-da4c171e7592</key>
+	<value>Team one</value>
+<component id="b20c0d50-84dc-e008-d738-da4c171e7592">
+	<content-type>/component/component-left-media-card-nocta</content-type>
+	<display-template>/templates/web/components/card-media-left-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b20c</objectGroupId>
+	<objectId>b20c0d50-84dc-e008-d738-da4c171e7592</objectId>
+	<file-name>b20c0d50-84dc-e008-d738-da4c171e7592.xml</file-name>
+	<internal-name>Team one</internal-name>
+	<title_s>Andiswa Mojapelo</title_s>
+	<imageAlt_s>Andiswa Mojapelo, Velocity Club relationship consultant.</imageAlt_s>
+	<imageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/andiswa-mojapelo.jpg</imageUrl_s>
+	<content_html>&lt;h4 class="title--sm" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: 24px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #ffffff;"&gt;Expertise&lt;/h4&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #ffffff;"&gt;Helping clients become successful by making financial decisions that are aligned with their goals.&lt;/p&gt;
+&lt;h4 class="title--sm" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: 24px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #ffffff;"&gt;Education&lt;/h4&gt;
+&lt;ul class="list-not-styled" style="padding: 0px; list-style-type: none; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #ffffff;"&gt;
+&lt;li&gt;Bcom Economics&lt;/li&gt;
+&lt;li&gt;PGDip Financial Planning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 class="title--sm" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: 24px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #ffffff;"&gt;Fun fact&lt;/h4&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #ffffff;"&gt;I spend the better part of my day having crucial conversations, but I wanted more. I started my own YouTube channel so I wouldn't have to stop!&lt;/p&gt;</content_html>
+	<createdDate>2021-09-01T06:32:18.984Z</createdDate>
+	<createdDate_dt>2021-09-01T06:32:18.984Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T06:32:18.984Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T06:32:18.984Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>477bf269-4cee-11ff-db1e-08964d800c33</key>
+	<value>Team two</value>
+<component id="477bf269-4cee-11ff-db1e-08964d800c33">
+	<content-type>/component/component-cardrm</content-type>
+	<display-template>/templates/web/components/cardrm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>477b</objectGroupId>
+	<objectId>477bf269-4cee-11ff-db1e-08964d800c33</objectId>
+	<file-name>477bf269-4cee-11ff-db1e-08964d800c33.xml</file-name>
+	<internal-name>Team two</internal-name>
+	<title_s>Frank Ngwenya</title_s>
+	<contentImageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/frank-ngwenya.jpg</contentImageUrl_s>
+	<imageAlt_s>Frank Ngwenya, Velocity Club relationship consultant.</imageAlt_s>
+	<contentImage_s/>
+	<content_html>&lt;h4 class="title--sm" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: 24px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #ffffff;"&gt;Expertise&lt;/h4&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #ffffff;"&gt;Helping people manage their relationship with money and being accountable for their money decisions.&lt;/p&gt;
+&lt;h4 class="title--sm" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: 24px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #ffffff;"&gt;Education&lt;/h4&gt;
+&lt;ul class="list-not-styled" style="padding: 0px; list-style-type: none; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #ffffff;"&gt;
+&lt;li&gt;Bcom Business Management&lt;/li&gt;
+&lt;li&gt;PGDip Financial Planning&lt;/li&gt;
+&lt;li&gt;PGDip Investment Planning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 class="title--sm" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: 24px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #ffffff;"&gt;Fun fact&lt;/h4&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #ffffff;"&gt;My binge go-to TV series is cartoons.&lt;/p&gt;</content_html>
+	<createdDate>2021-09-01T03:45:25.816Z</createdDate>
+	<createdDate_dt>2021-09-01T03:45:25.816Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T03:48:42.537Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T03:48:42.537Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>1f51efd1-a4e2-c81d-6226-b58ffbca7d97</key>
+	<value>Team three</value>
+<component id="1f51efd1-a4e2-c81d-6226-b58ffbca7d97">
+	<content-type>/component/component-left-media-card-nocta</content-type>
+	<display-template>/templates/web/components/card-media-left-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1f51</objectGroupId>
+	<objectId>1f51efd1-a4e2-c81d-6226-b58ffbca7d97</objectId>
+	<file-name>1f51efd1-a4e2-c81d-6226-b58ffbca7d97.xml</file-name>
+	<internal-name>Team three</internal-name>
+	<title_s>Lazola Mseleni</title_s>
+	<imageAlt_s>Lazola Mseleni, Velocity Club relationship consultant.</imageAlt_s>
+	<imageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/lazola-mseleni.jpg</imageUrl_s>
+	<content_html>&lt;h4 class="title--sm" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: 24px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #ffffff;"&gt;Expertise&lt;/h4&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #ffffff;"&gt;Helping people get that specific product they need now.&lt;/p&gt;
+&lt;h4 class="title--sm" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: 24px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #ffffff;"&gt;Education&lt;/h4&gt;
+&lt;ul class="list-not-styled" style="padding: 0px; list-style-type: none; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #ffffff;"&gt;
+&lt;li&gt;Bcom Honours (Business Management)&lt;/li&gt;
+&lt;li&gt;PGDip Financial Planning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 class="title--sm" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: 24px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #ffffff;"&gt;Fun fact&lt;/h4&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #ffffff;"&gt;I enjoy trying out different food recipes.&lt;/p&gt;</content_html>
+	<createdDate>2021-09-01T06:33:48.990Z</createdDate>
+	<createdDate_dt>2021-09-01T06:33:48.990Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T06:33:48.990Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T06:33:48.990Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<cardContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;&lt;strong&gt;The sky's the limit with a Relationship Consultant by your side.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;&lt;strong&gt;Get set for success&lt;/strong&gt;. Make a smart move and book a virtual appointment with a Relationship Consultant today.&lt;/p&gt;</cardContent_html>
+	<createdDate>2021-09-01T03:34:35.510Z</createdDate>
+	<createdDate_dt>2021-09-01T03:34:35.510Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T09:26:56.207Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T09:26:56.207Z</lastModifiedDate_dt>
+</page>

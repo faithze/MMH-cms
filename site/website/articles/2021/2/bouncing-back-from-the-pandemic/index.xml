@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>da25</objectGroupId>
+	<objectId>da25c1b5-4128-17c6-c6c9-c0db28718934</objectId>
+	<disabled>false</disabled>
+	<internal-name>Bouncing back from the pandemic</internal-name>
+	<pageName_s>Bouncing back from the pandemic</pageName_s>
+	<pageDescription_s>Bouncing back from the pandemic. Speak to a financial adviser for tips on how to vaccinate your finances against the pandemic.</pageDescription_s>
+	<title_s>Bouncing back from the pandemic</title_s>
+	<manualDate_s/>
+	<imageAlt_s>Financially confident young woman in red top and jeans putting on her sunglasses.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/young-lady-wearing-red-top-holding-sunglasses_316168464.jpg</image_url_s>
+	<post_id_s>list-col-6</post_id_s>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<file-name>index.xml</file-name>
+	<folder-name>bouncing-back-from-the-pandemic</folder-name>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>f9c764ad-38f0-45a2-da45-a99ec023fd51</key>
+	<value>Intro</value>
+<component id="f9c764ad-38f0-45a2-da45-a99ec023fd51">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f9c7</objectGroupId>
+	<objectId>f9c764ad-38f0-45a2-da45-a99ec023fd51</objectId>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<file-name>f9c764ad-38f0-45a2-da45-a99ec023fd51.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Here&amp;rsquo;s the thing. We&amp;rsquo;re just as tired of reading about the coronavirus as you are.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;So, this blog isn&amp;rsquo;t about the coronavirus. Well, not specifically anyway.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We all know that things are bad out there. But here, we like to keep things positive.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;So, instead of giving you another gloomy article full of bad news like everyone else is, we&amp;rsquo;re giving you some encouragement.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Today, we&amp;rsquo;re giving you our four tips on how to vaccinate your finances against the pandemic.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;1. Remain calm and trust your financial adviser&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The world is chaotic but your finances don&amp;rsquo;t have to be.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;So, your first job is to remain calm. Even though it&amp;rsquo;s difficult to see now, eventually this pandemic will pass and life will go back to normal.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Your retirement will still happen.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Major life events like the birth of your first child, or buying a house, will still come.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;That trip to Paris? It can still happen someday.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;But for now, stay calm and stick to your Velocity Club financial plan. Don&amp;rsquo;t make financial decisions based on panic or emotion. If there&amp;rsquo;s anything you&amp;rsquo;re unsure of, or if things have changed for you, please speak to your Velocity Club relationship consultant. You can trust that they are here to help you and will always give you the best advice to see you through the chaos.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;2. Take out the takeaways from your budget&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Did you know that when completing our budget template, seven out of 10 of our clients understate the amount of money that they spend on takeaways and dining out?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;That&amp;rsquo;s easy enough to do. Takeaways are relatively affordable, and we don&amp;rsquo;t keep track of how often we&amp;rsquo;re buying them.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;According to our surveys, people are spending R1 000 or more per month on takeaways and dining out.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:46:17.364Z</createdDate>
+	<createdDate_dt>2021-09-01T13:46:17.364Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:46:17.364Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:46:17.364Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>4492a68c-de80-7c63-76a2-d7b3ab48e1b0</key>
+	<value>Callout blue</value>
+<component id="4492a68c-de80-7c63-76a2-d7b3ab48e1b0">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4492</objectGroupId>
+	<objectId>4492a68c-de80-7c63-76a2-d7b3ab48e1b0</objectId>
+	<internal-name>Callout blue</internal-name>
+	<bg_color_s>bg--blue</bg_color_s>
+	<file-name>4492a68c-de80-7c63-76a2-d7b3ab48e1b0.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #02d2ff;"&gt;Vaccinating your finances against the pandemic means being honest about the non-essentials you&amp;rsquo;re buying and making hard decisions about whether you actually need them.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:46:46.668Z</createdDate>
+	<createdDate_dt>2021-09-01T13:46:46.668Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:46:46.668Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:46:46.668Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>060e0030-f31f-5705-2a89-8b5343e727a4</key>
+	<value>Sec 1</value>
+<component id="060e0030-f31f-5705-2a89-8b5343e727a4">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>060e</objectGroupId>
+	<objectId>060e0030-f31f-5705-2a89-8b5343e727a4</objectId>
+	<file-name>060e0030-f31f-5705-2a89-8b5343e727a4.xml</file-name>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Time to change that.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We guess your first response was that there&amp;rsquo;s NO WAY you&amp;rsquo;re spending that much right? Well, here&amp;rsquo;s a fun exercise: Whip out your bank statement and check it for yourself. You&amp;rsquo;ll probably be shocked.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;And even if you&amp;rsquo;re not spending that kind of money on takeaways, it could easily be something else. Perhaps it&amp;rsquo;s getting your nails done, buying cigarettes, alcohol, or gourmet coffees.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The truth is we don&amp;rsquo;t actually need so many of these things that we&amp;rsquo;re spending our money on.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Vaccinating your finances against the pandemic means being honest about the non-essentials you&amp;rsquo;re buying and making hard decisions about whether you actually need them.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;When in doubt, speak to your Velocity Club relationship consultant. They&amp;rsquo;re there to help.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;3. Prepare for next time&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;This isn&amp;rsquo;t the first crisis that the world has faced and it certainly won&amp;rsquo;t be the last.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;One of the best things we can do now is to ensure that we are properly prepared for the next big recession or the next big crisis. How do we do that?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Start by talking to your personal Velocity Club relationship consultant. They can help you with a financial plan that is tailored for your lifestyle.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you don&amp;rsquo;t already have one, now is a great time to start putting money aside for an emergency fund. This is basically savings that are there to pay for unexpected life events. This can be anything from home repairs, to replacing a broken appliance, medical bills, or even unemployment.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Try to aim to have enough money saved to cover between three and six months&amp;rsquo; worth of living expenses. The money should be saved in an interest-bearing account and should be accessible to you at short notice. If you&amp;rsquo;re not sure how to start and if all of this sounds very intimidating, Velocity Club is here to help! Our financial experts are available to take your call and answer any questions you might have. If you&amp;rsquo;re not already a member,&amp;nbsp;&lt;a style="background-color: transparent; color: var(--color-black);" data-tf-slider="Sgz7HGMv" data-tf-width="550" data-tf-hidden="utm_source=CTA,utm_medium=website,utm_campaign=velocityclub_site,utm_term=,utm_content=" data-tf-loaded="true"&gt;click here&lt;/a&gt;&amp;nbsp;and we&amp;rsquo;ll get you signed up in no time!&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:47:14.916Z</createdDate>
+	<createdDate_dt>2021-09-01T13:47:14.916Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:47:14.916Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:47:14.916Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>0d1a4e1f-bed1-23b0-14c6-c88e6adf6b82</key>
+	<value>Callout left one</value>
+<component id="0d1a4e1f-bed1-23b0-14c6-c88e6adf6b82">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0d1a</objectGroupId>
+	<objectId>0d1a4e1f-bed1-23b0-14c6-c88e6adf6b82</objectId>
+	<internal-name>Callout left one</internal-name>
+	<file-name>0d1a4e1f-bed1-23b0-14c6-c88e6adf6b82.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Try to aim for having enough money saved to cover between three and six months&amp;rsquo; worth of living expenses.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:47:38.418Z</createdDate>
+	<createdDate_dt>2021-09-01T13:47:38.418Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:47:38.418Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:47:38.418Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>20947def-01e0-7c3f-d96e-f33cce16d9f9</key>
+	<value>Conclusion</value>
+<component id="20947def-01e0-7c3f-d96e-f33cce16d9f9">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2094</objectGroupId>
+	<objectId>20947def-01e0-7c3f-d96e-f33cce16d9f9</objectId>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<file-name>20947def-01e0-7c3f-d96e-f33cce16d9f9.xml</file-name>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;4. Protect your mental health&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Getting your finances in order is really important, but so is your mental health. The isolation most of us are experiencing with ongoing lockdowns and the need for social distancing can really take its toll on us. Some of us have lost jobs, many of us have lost loved ones. All of this is highly stressful and it&amp;rsquo;s important that we learn to cope with that stress in a healthy way.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The Centre for Disease Control and Prevention (CDC) suggests that some of the ways to cope with that stress are simple lifestyle adjustments: Eat healthy meals, get regular exercise, and get lots of sleep. Learning relaxation techniques like meditation can be helpful, otherwise practising your faith can help calm you as well.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you are concerned about your mental health, please talk to someone you can trust or otherwise call the South African Depression and Anxiety Group&amp;rsquo;s free helpline on&amp;nbsp;&lt;a style="background-color: transparent;" href="tel:0800212223"&gt;0800 21 22 23&lt;/a&gt;&amp;nbsp;. It&amp;rsquo;s available 24 hours a day, 7 days a week.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Conclusion&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The pandemic is a stressful period full of uncertainty. Taking control of your finances is a great way to ensure you and your family can weather the storm and come out the other side stronger.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Today we&amp;rsquo;ve given you our four top tips for getting yourself and your finances through the pandemic. We hope it helps you. And if you think we&amp;rsquo;ve missed anything, why not let us know so that we can include your tips in a future post? We love hearing from you!&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9; text-align: center;"&gt;Special invite&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you enjoyed what you&amp;rsquo;ve read here and you&amp;rsquo;re ready to get stuck into finances with us, why not join us for our live Coffee Sessions?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The Coffee Sessions are an opportunity for our community of success seekers just like you to learn more about how to manage their money and build wealth. They&amp;rsquo;re online lunchtime hangouts with the Velocity Club team, all done via Zoom video calls. Attendees get to ask us their financial questions, share their thoughts and hang out together. We hope you&amp;rsquo;ll join us for the next one!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9; text-align: center;"&gt;&lt;a class="btn btn--primary btn--md register_webinars_page" style="background-color: #e01f26; display: inline-flex; position: relative; white-space: nowrap; justify-content: center; text-decoration-line: none; line-height: 1; padding: var(--space-xs) var(--space-sm); border-radius: var(--btn-radius); border-color: transparent; font-size: var(--btn-md); transition: all 0.2s ease 0s; cursor: pointer; min-width: 196px; min-height: 19px; align-items: center; color: #ffffff !important;" role="button" href="https://calendly.com/velocity-club/coffee-sessions?utm_source=blog&amp;amp;utm_medium=web&amp;amp;utm_campaign=Bouncing%20back%20from%20the%20pandemic" target="_blank" rel="noopener"&gt;Sign up here&lt;/a&gt;&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:48:06.773Z</createdDate>
+	<createdDate_dt>2021-09-01T13:48:06.773Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:48:06.773Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:48:06.773Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<date_dt>2021-02-16T05:00:00.000Z</date_dt>
+	<createdDate>2021-09-01T13:44:49.902Z</createdDate>
+	<createdDate_dt>2021-09-01T13:44:49.902Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T16:34:18.500Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T16:34:18.500Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

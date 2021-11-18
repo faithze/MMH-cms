@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>219b</objectGroupId>
+	<objectId>219b613d-3644-2a08-75c6-379d760500db</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>sars-can-pay-for-your-next-holiday-post</folder-name>
+	<disabled>false</disabled>
+	<internal-name>SARS can pay for your next holiday</internal-name>
+	<pageName_s>SARS can pay for your next holiday</pageName_s>
+	<pageDescription_s>SARS can pay for your next holiday. Speak to a financial adviser to understand how you can take that short left. Email info@velocityclub.co.za</pageDescription_s>
+	<title_s>SARS can pay for your next holiday....</title_s>
+	<manualDate_s/>
+	<imageAlt_s>Man in casual shirt sitting next to his laptop holding phone with his card in the other hand.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/mvc-blog-image.jpg</image_url_s>
+	<post_id_s>list-col-1c-tall</post_id_s>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>67c64c5a-cfcb-a272-d63a-36246ba8a53f</key>
+	<value>Intro</value>
+<component id="67c64c5a-cfcb-a272-d63a-36246ba8a53f">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>67c6</objectGroupId>
+	<objectId>67c64c5a-cfcb-a272-d63a-36246ba8a53f</objectId>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<file-name>67c64c5a-cfcb-a272-d63a-36246ba8a53f.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;This is not a scam, really. SARS desperately wants to refund you a portion of the tax you had to pay so you can use the money for things you actually want to pay for such as taking a short left, renovating your family home or even putting down a deposit on those wheels you have been eyeing for some time now. Let&amp;rsquo;s see if we can answer the questions that had you thinking &amp;ldquo;Impossible. Scam alert&amp;rdquo; !&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;How is this even possible?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;By contributing towards a retirement product (such as your employer&amp;rsquo;s pension fund, provident fund or a separate retirement annuity, RA for short), SARS will calculate the tax you need to pay based on your income MINUS any contributions you have made. In other words, any money that you put into a retirement product, will be deducted from your taxable income resulting in less tax payable by you.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:41:35.174Z</createdDate>
+	<createdDate_dt>2021-09-01T13:41:35.174Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:41:35.174Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:41:35.174Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>14dcbbca-ada1-3cfc-fd6b-d4c675de71be</key>
+	<value>Callout green</value>
+<component id="14dcbbca-ada1-3cfc-fd6b-d4c675de71be">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>14dc</objectGroupId>
+	<objectId>14dcbbca-ada1-3cfc-fd6b-d4c675de71be</objectId>
+	<file-name>14dcbbca-ada1-3cfc-fd6b-d4c675de71be.xml</file-name>
+	<internal-name>Callout green</internal-name>
+	<bg_color_s>bg--green</bg_color_s>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #29e56f;"&gt;It is absolutely legal and written into the Income Tax Act. You will definitely not end up in jail on tax evasion charges.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:41:59.595Z</createdDate>
+	<createdDate_dt>2021-09-01T13:41:59.595Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:41:59.595Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:41:59.595Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>cc20805b-fe37-8740-874a-196beb94f431</key>
+	<value>Sec 1</value>
+<component id="cc20805b-fe37-8740-874a-196beb94f431">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cc20</objectGroupId>
+	<objectId>cc20805b-fe37-8740-874a-196beb94f431</objectId>
+	<file-name>cc20805b-fe37-8740-874a-196beb94f431.xml</file-name>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;I don&amp;rsquo;t understand, show me by way of an example.&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Say for example, you earn R300,000 in a tax year (from 1 March to 28 February the next year), and say you didn&amp;rsquo;t make any contributions to a retirement product, then you will be taxed on the full R300,000 you have earned (approximately R46,600 in tax). But say that you have contributed R30,000 towards a RA during the same tax year, SARS will only tax you on R300,000 - R30,000 = R270,000 of income. The tax on this is around R38,800 and therefore you would have saved R7,800 in tax. So effectively, you got a R7,800 return in the first year of saving only R30,000. That is a return of 26% in one year! Another way of looking at it is that you actually only forked out R22,200 but have an immediate investment of R30,000 - SARS funds that extra R7,800 for you. Unbelievable but true!&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;But is this not tax evasion, is it even legal?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;It is absolutely legal and written into the Income Tax Act. You will definitely not end up in jail on tax evasion charges.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Is there a catch?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Not in the way you think. The &amp;lsquo;catch&amp;rsquo; is that there are limits. The maximum amount that can be deducted from your income that relates to these contributions, is 27.5% of your remuneration or taxable income (whichever is higher), and no more than R350,000 can be deducted in a tax year.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;For the above example, if your remuneration/taxable income is R300,000, the maximum contributions in a tax year that you can make towards retirement products is 27.5% x R300,000 = R82,500. So in this example, if you max-ed out your RA contributions, you will only be taxed on R300,000 - R82,500 = R217,500 instead of on the full R300,000.This will translate into a huge tax saving.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;It still sounds too good to be true. Why would they do this?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The answer is quite simple: Only 6% of people in South Africa will be able to retire comfortably and will not be dependent on the state for SASSA pensions. SARS (and therefore the Government) wants to reward and incentivise you for contributing to a retirement product now, so that your future self does not become dependent on the state or on society - even on your family. The government would rather have people who are self-sufficient in their old age than pay out more grants. The money can then be used to build infrastructure, create jobs, and so forth. .&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Okay, it sounds better. But is the tax incentive the only reason why I should save money in a RA?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Ah, great question! And no, the other advantage of saving money in a RA, is that any growth and investment returns in an RA, i.e. things like interest received, dividends received or capital gains, are all tax free!&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:42:24.657Z</createdDate>
+	<createdDate_dt>2021-09-01T13:42:24.657Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:42:24.657Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:42:24.657Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>80379b65-0982-80ce-d1a6-692a7db8dca6</key>
+	<value>Callout left one</value>
+<component id="80379b65-0982-80ce-d1a6-692a7db8dca6">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8037</objectGroupId>
+	<objectId>80379b65-0982-80ce-d1a6-692a7db8dca6</objectId>
+	<internal-name>Callout left one</internal-name>
+	<file-name>80379b65-0982-80ce-d1a6-692a7db8dca6.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;For pension and provident funds, it can be anything from 60, 63 or 65 and is governed by the fund rules for each fund.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:42:51.498Z</createdDate>
+	<createdDate_dt>2021-09-01T13:42:51.498Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:42:51.498Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:42:51.498Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>9226b0bd-660f-6ca4-794c-b2f31fee3a35</key>
+	<value>Sec 2</value>
+<component id="9226b0bd-660f-6ca4-794c-b2f31fee3a35">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9226</objectGroupId>
+	<objectId>9226b0bd-660f-6ca4-794c-b2f31fee3a35</objectId>
+	<file-name>9226b0bd-660f-6ca4-794c-b2f31fee3a35.xml</file-name>
+	<internal-name>Sec 2</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Surely, there must be another catch?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Well, SARS does not want to give you a tax refund only for you to immediately withdraw the money you put into an RA to pay your monthly bills. So in order to get the tax relief, SARS only incentivises committed investors to ensure that you leave the money alone and only use it for what it is intended for, i.e. for your retirement.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;So how do they do that?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;For any retirement product, you will only have access to that money once you reach a certain age. For RAs you only have access to that money from the age of 55 as the earliest age. For pension and provident funds, it can be anything from 60, 63 or 65 and is governed by the fund rules for each fund.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;That&amp;rsquo;s okay, as it will give the investment time to really grow given the effect of compound interest. So I can then withdraw the money at age 55 and go on that around the world tour?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;SARS is smarter than you think. Remember, the tax incentive is so that you have money for your retirement. Not for around the world tours. So, you will only be able to take 1/3rd of the money at age 55 for a RA, in cash (which SARS will tax if that amount is higher than R500,000) and with the rest you must buy a monthly annuity (pension) from an insurance company. This is to make sure that once people have access to their retirement money, they don&amp;rsquo;t waste it on new cars and holidays. Remember that this money must be enough to pay for your expenses for years and years and years as this will probably be your only income.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;When and how will I get this tax back then?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;When you file your tax return (starting usually around the 1st July of each year), you will get a certificate from the RA provider which will be populated in your tax return. SARS will then deduct this from your taxable income, and will calculate the tax refund owed to you. When there is a refund payable, they usually do so within days of submitting your tax return. So the sooner you file your return, the sooner you get the refund owed to you.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:43:13.133Z</createdDate>
+	<createdDate_dt>2021-09-01T13:43:13.133Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:43:13.133Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:43:13.133Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>804bd475-08ec-1bda-07e5-662ae995af17</key>
+	<value>Callout right one</value>
+<component id="804bd475-08ec-1bda-07e5-662ae995af17">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>804b</objectGroupId>
+	<objectId>804bd475-08ec-1bda-07e5-662ae995af17</objectId>
+	<internal-name>Callout right one</internal-name>
+	<file-name>804bd475-08ec-1bda-07e5-662ae995af17.xml</file-name>
+	<call_out_content_html>&lt;p&gt;&lt;br class="Apple-interchange-newline" /&gt;&lt;span style="color: #1d1d21; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 32px; font-style: italic; background-color: #f9f9f9;"&gt;SARS is leaving money for you on the proverbial table, you need to take steps to make sure you claim your share...&lt;/span&gt;&lt;/p&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:43:36.861Z</createdDate>
+	<createdDate_dt>2021-09-01T13:43:36.861Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:43:36.861Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:43:36.861Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>4b17680e-fe64-3957-96f9-657a0b93c782</key>
+	<value>Conclusion</value>
+<component id="4b17680e-fe64-3957-96f9-657a0b93c782">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4b17</objectGroupId>
+	<objectId>4b17680e-fe64-3957-96f9-657a0b93c782</objectId>
+	<file-name>4b17680e-fe64-3957-96f9-657a0b93c782.xml</file-name>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;This sounds like something that will only apply to rich people.&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Absolutely not. With contributions as low as R300 pm, irrespective of how much you earn you will STILL get the tax incentive AND will be putting money away for your future self. R300pm is giving up two pizzas a month, a small sacrifice that is certainly worth it I&amp;rsquo;d say.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Say I do get a tax refund, can I really use it for anything?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Ofcourse! Contribute towards that around the world tour, it's your money to spend.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;However, we at Velocity Club view this as a bonus so one should use it to accelerate their wealth building and take it to the next level . We therefore recommend that you use this bonus money to invest in a tax free savings account to boost your retirement savings further. So let SARS help build your retirement savings. Hey, it&amp;rsquo;s money that you didn&amp;rsquo;t even know you had so make sure you spend it on things that really matter to you and the future you.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;I&amp;rsquo;m almost convinced&amp;hellip;. But where do I start, what must I do, who do I speak to?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;It&amp;rsquo;s really simple. Just book a free chat with one of our Velocity Club relationship consultants&amp;nbsp;&lt;a style="background-color: transparent; color: var(--color-black);" data-tf-slider="Sgz7HGMv" data-tf-width="550" data-tf-hidden="utm_source=CTA,utm_medium=website,utm_campaign=velocityclub_site,utm_term=,utm_content=" data-tf-loaded="true"&gt;here&lt;/a&gt;&amp;nbsp;so they can get the ball rolling. Remember, the tax year ends on 28 February 2021 and to get that refund in July, you need to start investing sooner rather than later.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;A final word from us: SARS is leaving money for you on the proverbial table, you need to take steps to make sure you claim your share because once a new tax year kicks in, that money is gone forever.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:44:02.928Z</createdDate>
+	<createdDate_dt>2021-09-01T13:44:02.928Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:44:02.928Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:44:02.928Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<date_dt>2021-02-03T05:00:00.000Z</date_dt>
+	<createdDate>2021-09-01T13:40:09.874Z</createdDate>
+	<createdDate_dt>2021-09-01T13:40:09.874Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T16:35:06.892Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T16:35:06.892Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

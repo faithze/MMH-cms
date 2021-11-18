@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>329a</objectGroupId>
+	<objectId>329a6ef3-0eab-ede0-3838-f1533bcec76d</objectId>
+	<disabled>false</disabled>
+	<internal-name>How to legally reduce your tax bill</internal-name>
+	<pageName_s>How to legally reduce your tax bill</pageName_s>
+	<pageDescription_s>Simplify your tax return and reduce your tax bill, in accordance with the provisions in the law, with the help of your financial adviser. WhatsApp 073 916 9367 or email info@velocityclub.co.za</pageDescription_s>
+	<title_s>How to (legally) reduce your tax bill - and other fun tax facts</title_s>
+	<manualDate_s/>
+	<imageAlt_s>A man seated in front of a desk with lots of paperwork and his laptop, while he is working out his tax calculations on a calculator.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/article4-1-2_section-896x580.jpg</image_url_s>
+	<post_id_s/>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>84f2715d-ffbb-474f-fe5a-e3c330b7237f</key>
+	<value>Intro</value>
+<component id="84f2715d-ffbb-474f-fe5a-e3c330b7237f">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>84f2</objectGroupId>
+	<objectId>84f2715d-ffbb-474f-fe5a-e3c330b7237f</objectId>
+	<file-name>84f2715d-ffbb-474f-fe5a-e3c330b7237f.xml</file-name>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;There is an old saying that goes something like this:&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;&amp;lsquo;There are only two certainties in life: Death, and taxes.&amp;rsquo;&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Here at Velocity Club, as bright as we are, we can&amp;rsquo;t do anything about death (as morbid as that sounds) but we can do something about helping you understand taxes. Today&amp;rsquo;s blog is all about taxes and tax returns. We&amp;rsquo;ll learn some of the key basics you need to know in order to pay and maintain your tax account.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;First up, let&amp;rsquo;s have a look at SARS&amp;rsquo; new Auto Assessment system.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;SARS Auto Assessment&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The SARS Auto Assessment is a new assessment procedure that produces an automatic assessment of your tax bill.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The system will send you an SMS and you&amp;rsquo;ll have 3 options: You can either Accept or Edit the assessment, or you can Do Nothing about it. Here&amp;rsquo;s what those 3 options mean.&lt;/p&gt;
+&lt;p class="no-margin-bottom fw-900" style="margin-bottom: 0px; line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Accept:&lt;/p&gt;
+&lt;p class="no-margin-top" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); margin-top: 0px; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you are going to go this route, you need to be aware that the data used to pre-populate the fields on your tax return may be incorrect or incomplete. For example, it won&amp;rsquo;t include donations, rental income, offshore income, and many others. If you want to add those items, you&amp;rsquo;ll use the Edit option.&lt;/p&gt;
+&lt;p class="fw-900 no-margin-bottom" style="margin-bottom: 0px; line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Edit:&lt;/p&gt;
+&lt;p class="no-margin-top" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); margin-top: 0px; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you are a taxpayer with other forms of income beyond your salary, you must select the Edit option so you can include that additional information.&lt;/p&gt;
+&lt;p class="fw-900 no-margin-bottom" style="margin-bottom: 0px; line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Do nothing:&lt;/p&gt;
+&lt;p class="no-margin-top" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); margin-top: 0px; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Under this option, if you don&amp;rsquo;t do anything before 16 November, SARS will issue an &amp;lsquo;estimated assessment&amp;rsquo; in terms of Section 95 of the Tax Administration Act. This assessment will be issued after 29 January 2021. In this scenario, your right to appeal is limited by the Act.&lt;/p&gt;
+&lt;p class="fw-900 no-margin-bottom" style="margin-bottom: 0px; line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you accept an incorrect Auto-Assessment, how can you correct it?&lt;/p&gt;
+&lt;p class="no-margin-top" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); margin-top: 0px; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;In this case, and assuming an ITA 34 has been issued (ITA 34 is SARS&amp;rsquo; income tax assessment), you can check to see if the &amp;lsquo;make a correction&amp;rsquo; option is still available. If it is, you can then submit a revised assessment.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If the correction option isn&amp;rsquo;t available, you can make use of the Voluntary Disclosure Programme (VDP) if taxes were underpaid. Understatement and underestimation penalties as well as late payment penalties can be avoided in this case, but interest will still be payable.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;You can also request a reduced assessment within 3 years from the date of the assessment in terms of Section 93 of the Act if taxes were overpaid.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:28:08.539Z</createdDate>
+	<createdDate_dt>2021-09-01T13:28:08.539Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:28:08.539Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:28:08.539Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>c45d599a-31ab-4f60-a370-7d8fd297add2</key>
+	<value>Callout blue</value>
+<component id="c45d599a-31ab-4f60-a370-7d8fd297add2">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c45d</objectGroupId>
+	<objectId>c45d599a-31ab-4f60-a370-7d8fd297add2</objectId>
+	<internal-name>Callout blue</internal-name>
+	<bg_color_s>bg--blue</bg_color_s>
+	<file-name>c45d599a-31ab-4f60-a370-7d8fd297add2.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #02d2ff;"&gt;NB: There is no need to wait until 1 September for an auto-assessment SMS from SARS. Your tax return on eFiling will be available before then and you can file as soon as possible.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:28:33.684Z</createdDate>
+	<createdDate_dt>2021-09-01T13:28:33.684Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:28:33.684Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:28:33.684Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>729d2b29-76ae-58ae-838e-4f07e8d91fe5</key>
+	<value>Sec 1</value>
+<component id="729d2b29-76ae-58ae-838e-4f07e8d91fe5">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>729d</objectGroupId>
+	<objectId>729d2b29-76ae-58ae-838e-4f07e8d91fe5</objectId>
+	<file-name>729d2b29-76ae-58ae-838e-4f07e8d91fe5.xml</file-name>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;How can you reduce your tax bill?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Reducing your tax bill, when done in accordance with the provisions in the law, is perfectly legal. Here are some of the ways in which you can reduce your tax bill legally and what they each entail:&lt;/p&gt;
+&lt;ul style="color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;
+&lt;li&gt;
+&lt;p class="fw-900" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); font-weight: 900;"&gt;Contributions to retirement funds and retirement annuities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tax deductions related to contributions to retirement funds and retirement annuities are limited to 27.5% of either the remuneration or the taxable income, whichever is the greater.&lt;/li&gt;
+&lt;li&gt;Tax deductions are limited to a maximum of R350 000 per tax year for both member and employer contributions.&lt;/li&gt;
+&lt;li&gt;Contributions above specified amounts will be carried forward for deduction in the next tax year.&lt;/li&gt;
+&lt;li&gt;Contributions by your employer are classified as a fringe benefit and can aggregate both employer and employee contributions and deduct from income.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p class="fw-900" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); font-weight: 900;"&gt;Open and contribute to a tax-free savings account:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All income earned from this (interest, dividends, capital gains) is exempt from tax.&lt;/li&gt;
+&lt;li&gt;Contributions are not tax-deductible. There&amp;rsquo;s also a limit to how much you can contribute - a maximum of R33 000 per year and R500 000 in total over your lifetime.&lt;/li&gt;
+&lt;li&gt;Contributions over the R33 000 annual limit will be subject to a penalty tax of 40% of the excess.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p class="fw-900" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); font-weight: 900;"&gt;Tax exemptions on interest earned:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assets such as cash (money market) and bonds, will incur tax on the interest income earned.&lt;/li&gt;
+&lt;li&gt;Individuals do enjoy a tax exemption of R23 800 (under 65 years old) and R34 500 (65 years and older).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p class="fw-900" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); font-weight: 900;"&gt;Limitations on capital gains tax:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Capital gains tax refers to the profit you make when selling an asset, and the value of the asset is higher at the time of the sale than when you purchased it. That difference is called capital gain and 40% (for individuals) is included in annual income and will be taxed at your marginal rate. The maximum being 45%.&lt;/li&gt;
+&lt;li&gt;Individuals also enjoy an annual capital gain exclusion of R40 000.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p class="fw-900" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); font-weight: 900;"&gt;Tax deductions for working from home:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Home office expenses can be claimed back if your home office is used regularly and is exclusively used to do work for an employer, for which you earn a fixed remuneration.&lt;/li&gt;
+&lt;li&gt;Home office expenses include stationery, telephone bills, rent, rates and taxes, interest on bond repayments, cleaning expenses, wear and tear on assets, internet costs, and repairs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p class="fw-900" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); font-weight: 900;"&gt;Section 12J investment tax deductions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you invest in an approved section 12J venture capital company, you are entitled to a tax deduction for your investment.&lt;/li&gt;
+&lt;li&gt;The minimum investment required in this scenario, is R100 000.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:29:06.250Z</createdDate>
+	<createdDate_dt>2021-09-01T13:29:06.250Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:29:06.250Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:29:06.250Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>82ddb9b3-6b74-7f03-edd9-5397e64546db</key>
+	<value>Callout left one</value>
+<component id="82ddb9b3-6b74-7f03-edd9-5397e64546db">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>82dd</objectGroupId>
+	<objectId>82ddb9b3-6b74-7f03-edd9-5397e64546db</objectId>
+	<internal-name>Callout left one</internal-name>
+	<file-name>82ddb9b3-6b74-7f03-edd9-5397e64546db.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Reducing your tax bill, when done in accordance with the provisions in the law, is perfectly legal.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:29:36.384Z</createdDate>
+	<createdDate_dt>2021-09-01T13:29:36.384Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:29:36.384Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:29:36.384Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>66395b69-54b1-1b3f-ba1c-2e4d6d55f2e7</key>
+	<value>Conclusion</value>
+<component id="66395b69-54b1-1b3f-ba1c-2e4d6d55f2e7">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6639</objectGroupId>
+	<objectId>66395b69-54b1-1b3f-ba1c-2e4d6d55f2e7</objectId>
+	<file-name>66395b69-54b1-1b3f-ba1c-2e4d6d55f2e7.xml</file-name>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Conclusion&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Taxes can be overwhelming, but today we&amp;rsquo;ve tried to provide a simplified breakdown of various tax-related issues. We&amp;rsquo;ve explained SARS Auto Assessment system and how you can interact with it. And we&amp;rsquo;ve finished with a pretty detailed list of all the ways you can legally reduce your tax bill. Hopefully this has been informative for you and that it has answered some questions you may have had about your tax bill. If you have any other questions about how you can structure your finances as wisely as possible in relation to your tax, please speak to your Velocity Club relationship consultant. They are ready and waiting to hear from you.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:29:57.584Z</createdDate>
+	<createdDate_dt>2021-09-01T13:29:57.584Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:29:57.584Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:29:57.584Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<file-name>index.xml</file-name>
+	<folder-name>how-to-legally-reduce-your-tax-bill</folder-name>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<date_dt>2020-10-07T04:00:00.000Z</date_dt>
+	<createdDate>2021-09-01T10:53:26.631Z</createdDate>
+	<createdDate_dt>2021-09-01T10:53:26.631Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:27:11.673Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:27:11.673Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

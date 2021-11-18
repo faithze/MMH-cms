@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>62e9</objectGroupId>
+	<objectId>62e9b53b-1281-21fa-2b80-2e49f0631636</objectId>
+	<internal-name>In the spirit of Halloween, here are 3 money tricks to avoid</internal-name>
+	<pageName_s>In the spirit of Halloween, here are 3 money tricks to avoid...and the 3 money treats to replace them with</pageName_s>
+	<pageDescription_s>Financial trickery can cost you. Speak to a financial adviser on how to manage your taxes, credit card payments or setting up an emergency savings account.</pageDescription_s>
+	<title_s>In the spirit of Halloween, here are 3 money tricks to avoid...and the 3 money treats to replace them with</title_s>
+	<manualDate_s/>
+	<imageAlt_s>Little boy dressed up in a Halloween outfit and ready to go trick or treating.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/article2-1-2_section-896x580.jpg</image_url_s>
+	<post_id_s>list-col-1b-tall</post_id_s>
+	<disabled>false</disabled>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<file-name>index.xml</file-name>
+	<folder-name>in-the-spirit-of-halloween-here-are-3-money-tricks-to-avoid</folder-name>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>b4833867-4543-4497-1deb-37ba7d6365ce</key>
+	<value>Intro</value>
+<component id="b4833867-4543-4497-1deb-37ba7d6365ce">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b483</objectGroupId>
+	<objectId>b4833867-4543-4497-1deb-37ba7d6365ce</objectId>
+	<file-name>b4833867-4543-4497-1deb-37ba7d6365ce.xml</file-name>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;&amp;ldquo;Trick or treat!&amp;rdquo;&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Wait, you expected us to give you sweeties?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Sorry reader, this is Velocity Club, not your gogo&amp;rsquo;s house. Here we are very grown-up. We are only interested in important life issues and super serious financial advice.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Now, go trick or treat someone else&amp;rsquo;s blog, please. We&amp;rsquo;ve got to get back inside. We just got &amp;lsquo;Frozen 2&amp;rsquo; in and that box of finger biscuits is not going to eat itself.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Just kidding. Back to business!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Today&amp;rsquo;s blog is Halloween themed because we can and because the financial world is full of trickery. Velocity Club is here to give you some yummy financial treats to help you avoid those unpredictable tricks out there.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We begin with that old favourite of ours: Credit cards.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Credit cards&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;&lt;strong&gt;Trick: Paying using a credit card every time we don&amp;rsquo;t have the cash.&lt;/strong&gt;&lt;br /&gt;We are all in the habit of doing this, let&amp;rsquo;s be honest. But trickery is afoot.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:19:44.027Z</createdDate>
+	<createdDate_dt>2021-09-01T13:19:44.027Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:19:44.027Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:19:44.027Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>01cae0c3-0ac5-c8bc-2504-f111c02ab132</key>
+	<value>Callout yellow</value>
+<component id="01cae0c3-0ac5-c8bc-2504-f111c02ab132">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>01ca</objectGroupId>
+	<objectId>01cae0c3-0ac5-c8bc-2504-f111c02ab132</objectId>
+	<internal-name>Callout yellow</internal-name>
+	<bg_color_s>bg--yellow</bg_color_s>
+	<file-name>01cae0c3-0ac5-c8bc-2504-f111c02ab132.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #ffbe00; color: #323232 !important;"&gt;The credit card company will candy-coat your debt by telling you that all you need to pay is the minimum payment and all is well.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:20:08.322Z</createdDate>
+	<createdDate_dt>2021-09-01T13:20:08.322Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:20:08.322Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:20:08.322Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>f16ca910-51c4-9096-9dd4-e8d6825eb5f6</key>
+	<value>Sec 1</value>
+<component id="f16ca910-51c4-9096-9dd4-e8d6825eb5f6">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f16c</objectGroupId>
+	<objectId>f16ca910-51c4-9096-9dd4-e8d6825eb5f6</objectId>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>f16ca910-51c4-9096-9dd4-e8d6825eb5f6.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;No problem, that&amp;rsquo;s a nice small, manageable amount, right?&lt;br /&gt;Wrong!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;On a debt of R10 000 and paying only the minimum payment (let&amp;rsquo;s say 3% of the balance at 18% interest rate), it&amp;rsquo;ll take you over 17 years to pay off that debt and in the end you would&amp;rsquo;ve paid R9 500 on interest alone.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Treat: Paying off your credit card debt at the end of the month&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Basically, this is the best way to make your credit cards work for you without getting yourself into a debt hole and paying double your actual debt amount like we saw above. By clearing your credit card at the end of every month, you get to maximise benefits from usage rewards such as eBucks, without incurring any interest.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;But if you don&amp;rsquo;t have the discipline to do this, the better option is to rather save every month towards that item you want to buy.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:20:32.272Z</createdDate>
+	<createdDate_dt>2021-09-01T13:20:32.272Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:20:32.272Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:20:32.272Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>050232c3-c574-a448-fb0a-39b007aeb424</key>
+	<value>Callout left one</value>
+<component id="050232c3-c574-a448-fb0a-39b007aeb424">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0502</objectGroupId>
+	<objectId>050232c3-c574-a448-fb0a-39b007aeb424</objectId>
+	<file-name>050232c3-c574-a448-fb0a-39b007aeb424.xml</file-name>
+	<internal-name>Callout left one</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Remember: If you can&amp;rsquo;t pay cash for it, then you can&amp;rsquo;t afford it right now.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:20:56.300Z</createdDate>
+	<createdDate_dt>2021-09-01T13:20:56.300Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:20:56.300Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:20:56.300Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>0dc2e7a9-8c2a-26e6-38de-bdd1c30adba3</key>
+	<value>Sec 2</value>
+<component id="0dc2e7a9-8c2a-26e6-38de-bdd1c30adba3">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0dc2</objectGroupId>
+	<objectId>0dc2e7a9-8c2a-26e6-38de-bdd1c30adba3</objectId>
+	<file-name>0dc2e7a9-8c2a-26e6-38de-bdd1c30adba3.xml</file-name>
+	<internal-name>Sec 2</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Tax&lt;/h2&gt;
+&lt;p class="fw-900 no-margin-bottom" style="margin-bottom: 0px; line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Trick: Believing SARS when they say that tax avoidance is the same as tax evasion&lt;/p&gt;
+&lt;p class="no-margin-top" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); margin-top: 0px; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;SARS wants you to pay as much tax as possible, and they&amp;rsquo;ll do and say anything they can to convince you that paying anything but the maximum possible tax, is somehow a problem for you.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Pro tip: It isn&amp;rsquo;t.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;First, let&amp;rsquo;s be clear about what the difference between tax avoidance and tax evasion is.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Tax avoidance is using tax legislation to your advantage to reduce your tax burden through lawful, legitimate means.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Tax evasion refers to using unlawful methods to avoid paying tax. We are certainly not promoting tax evasion.&lt;/p&gt;
+&lt;p class="fw-900 no-margin-bottom" style="margin-bottom: 0px; line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Treat: Use tax law to legally reduce your tax burden&lt;/p&gt;
+&lt;p class="no-margin-top" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); margin-top: 0px; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The easiest way to legally reduce your tax liability is through contributing to a retirement annuity. Contributions that you make there, within certain limits, are tax-deductible. For example: If you earn R500 000 a year, and contribute R50 000 to an RA during the year, you&amp;rsquo;re only taxed on R450 000 [There are some limits to what you are able to deduct though].&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;There are other ways as well, for example donating money to charities, working from home (in some instances) and certain investments. Your Velocity Club financial adviser will be able to give you more information about this.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Emergency fund&lt;/h2&gt;
+&lt;p class="fw-900 no-margin-bottom" style="margin-bottom: 0px; line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Trick: Using credit cards or debt to fund unexpected life expenses&lt;/p&gt;
+&lt;p class="no-margin-top" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); margin-top: 0px; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Unexpected emergencies suck. Whether its car repairs, home repairs, or medical bills, the cost is usually not small and most of us are usually unprepared for it. To get through it, we turn to credit.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The problem with this is that thanks to credit card trickery (see above), you can end up paying so much more than the amount you actually needed. And this isn&amp;rsquo;t helped by the way financial institutions eagerly offer us debt facilities.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:21:23.072Z</createdDate>
+	<createdDate_dt>2021-09-01T13:21:23.072Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:21:23.072Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:21:23.072Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>64dc9386-c8f1-8cea-6456-2bff5a9ea612</key>
+	<value>Callout right one</value>
+<component id="64dc9386-c8f1-8cea-6456-2bff5a9ea612">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>64dc</objectGroupId>
+	<objectId>64dc9386-c8f1-8cea-6456-2bff5a9ea612</objectId>
+	<internal-name>Callout right one</internal-name>
+	<file-name>64dc9386-c8f1-8cea-6456-2bff5a9ea612.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Once you&amp;rsquo;re in a cycle of living off credit, it&amp;rsquo;s very difficult to get out of that situation.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:21:52.825Z</createdDate>
+	<createdDate_dt>2021-09-01T13:21:52.825Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:21:52.825Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:21:52.825Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>aa568f6b-a962-cc20-4435-f50b32d85cda</key>
+	<value>Conclusion</value>
+<component id="aa568f6b-a962-cc20-4435-f50b32d85cda">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>aa56</objectGroupId>
+	<objectId>aa568f6b-a962-cc20-4435-f50b32d85cda</objectId>
+	<file-name>aa568f6b-a962-cc20-4435-f50b32d85cda.xml</file-name>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;p class="fw-900 no-margin-bottom" style="margin-bottom: 0px; line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Treat: Open a savings account and save towards emergencies instead&lt;/p&gt;
+&lt;p class="no-margin-top" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); margin-top: 0px; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We recommend opening a cheap savings account to put money away for your own emergency fund. Most banks offer low cost or even no cost savings accounts if you have an existing transactional (cheque or credit card) account with them, so look into this for an affordable savings account.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;This special savings account can become a sort of &amp;lsquo;self insurance&amp;rsquo; against life&amp;rsquo;s unexpected events so that you don&amp;rsquo;t have to turn to credit at those times.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;How much should you save?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Ideally, you should aim to have 3 to 6 months&amp;rsquo; worth of expenses saved in your account. That sounds like a lot though, so start with whatever you can afford and build on it every month from there.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Conclusion&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Just like in the movie Frozen, the financial world is full of trickery trying to upset your way of life and turn you into a princess with the ability to freeze your surroundings on a whim.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Actually, hang on, that&amp;rsquo;s a different script.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Let me have a look here.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Ah! Here it is: Financial trickery can cost you more than the cost of overpaying on your tax bill or using credit too often and if you aren&amp;rsquo;t careful, you can end up poorer for it. In today&amp;rsquo;s blog, we&amp;rsquo;ve given you some easy, practical things you can do today to protect your income and your credit. You can pay off your credit card debt at the end of each month. You can find legal methods to reduce your tax burden, and you can create a savings account to help pay for unexpected emergency expenses.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you still have questions and need assistance planning your taxes, your credit repayments or setting up your emergency fund, our highly trained Velocity Club financial advisers are here to support you. They&amp;rsquo;ll help you make the right decisions, every time, to ensure that you reach your financial goals.&amp;nbsp;&lt;a style="background-color: transparent; color: var(--color-black);" data-tf-slider="Sgz7HGMv" data-tf-width="550" data-tf-hidden="utm_source=CTA,utm_medium=website,utm_campaign=velocityclub_site,utm_term=,utm_content=" data-tf-loaded="true"&gt;Contact us&lt;/a&gt;&amp;nbsp;today; we&amp;rsquo;d love to hear from you.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:22:18.775Z</createdDate>
+	<createdDate_dt>2021-09-01T13:22:18.775Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:22:18.775Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:22:18.775Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<date_dt>2020-10-14T04:00:00.000Z</date_dt>
+	<createdDate>2021-09-01T13:16:39.489Z</createdDate>
+	<createdDate_dt>2021-09-01T13:16:39.489Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T16:36:44.588Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T16:36:44.588Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

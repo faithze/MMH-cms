@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-generic</content-type>
+	<display-template>/templates/web/pages/generic-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8ded</objectGroupId>
+	<objectId>8ded632f-92c8-1a6c-d191-ac0c2558bb9f</objectId>
+	<internal-name>Fin Check-Up</internal-name>
+	<navLabel>Fin Check-Up</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>fin-check-up</folder-name>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>51a54fbe-e563-0e35-2b34-facd82b1c46b</key>
+	<value>Intro</value>
+<component id="51a54fbe-e563-0e35-2b34-facd82b1c46b">
+	<content-type>/component/page-header</content-type>
+	<display-template>/templates/web/components/page-header-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>51a5</objectGroupId>
+	<objectId>51a54fbe-e563-0e35-2b34-facd82b1c46b</objectId>
+	<file-name>51a54fbe-e563-0e35-2b34-facd82b1c46b.xml</file-name>
+	<internal-name>Intro</internal-name>
+	<title_s>How healthy are your finances? Get a Financial Check-Up to find out.</title_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/financiacheckup-hero.png</image_url_s>
+	<imageAlt_s>Young man casually dressed in a white shirt and hat holding his laptop bag.</imageAlt_s>
+	<content_html>&lt;p&gt;You never regret a workout. Yes, some of us like exercise, others don&amp;rsquo;t, but almost everyone feels good afterwards.&lt;/p&gt;
+&lt;p&gt;And just like working out, a Financial Check-Up is necessary to keep your money fit and on track to achieving your goals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is the best place to start&lt;/strong&gt;. A quick checkup on your finances will help you see where you need help and how we can help you fix what&amp;rsquo;s broken.&lt;/p&gt;
+&lt;div class="form__inline form__inline--center"&gt;&lt;a class="btn btn--primary btn--md fin__checkup get_checkup_one_fin-checkup_page" role="button"&gt;Get a Check-Up&lt;/a&gt;&lt;/div&gt;</content_html>
+	<createdDate>2021-07-16T13:01:45.862Z</createdDate>
+	<createdDate_dt>2021-07-16T13:01:45.862Z</createdDate_dt>
+	<lastModifiedDate>2021-07-16T13:01:45.862Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-16T13:01:45.862Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>2d34613a-e78a-f1e4-c8ae-641fec3d4a63</key>
+	<value>Card</value>
+<component id="2d34613a-e78a-f1e4-c8ae-641fec3d4a63">
+	<content-type>/component/component-cardlm</content-type>
+	<display-template>/templates/web/components/cardlm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2d34</objectGroupId>
+	<objectId>2d34613a-e78a-f1e4-c8ae-641fec3d4a63</objectId>
+	<file-name>2d34613a-e78a-f1e4-c8ae-641fec3d4a63.xml</file-name>
+	<internal-name>Card</internal-name>
+	<title_s>So how do I get a Financial Check-Up? Easy!</title_s>
+	<label_s>Get a Check-Up</label_s>
+	<url_s/>
+	<imageAlt_s>Young woman in jeans and white sweater sitting on a carpet in her lounge working on her laptop.</imageAlt_s>
+	<contentImageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/fc-592x580_Desktop.jpg</contentImageUrl_s>
+	<contentImage_s/>
+	<content_html>&lt;p&gt;Answer a few questions about your spending, borrowing, saving and investing habits. &lt;strong&gt;It&amp;rsquo;s the smart way to stay on track of your finances.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Secure. Confidential. Trustworthy&lt;/strong&gt;.&lt;/p&gt;</content_html>
+	<createdDate>2021-07-16T13:04:15.203Z</createdDate>
+	<createdDate_dt>2021-07-16T13:04:15.203Z</createdDate_dt>
+	<lastModifiedDate>2021-07-16T13:04:15.203Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-16T13:04:15.203Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2021-07-16T12:59:33.822Z</createdDate>
+	<createdDate_dt>2021-07-16T12:59:33.822Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T03:40:54.822Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T03:40:54.822Z</lastModifiedDate_dt>
+</page>

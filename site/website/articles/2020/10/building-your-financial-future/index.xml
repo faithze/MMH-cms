@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9189</objectGroupId>
+	<objectId>91893244-4daf-d461-3eac-e3f02b3afce8</objectId>
+	<internal-name>Building your financial future</internal-name>
+	<pageName_s>Build your financial future</pageName_s>
+	<pageDescription_s>If you want to take control of your financial future and live financially free, join Velocity Club. Our financial advisers can help you with a personalised Money Guide.</pageDescription_s>
+	<title_s>Build your financial future</title_s>
+	<manualDate_s/>
+	<imageAlt_s>Businessman sitting and reviewing investment graphs on his tablet device.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/article6-1-2_section-896x580.jpg</image_url_s>
+	<post_id_s/>
+	<disabled>false</disabled>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>f8aca06f-ff79-f17f-9a54-e4eff3f2bc78</key>
+	<value>Intro</value>
+<component id="f8aca06f-ff79-f17f-9a54-e4eff3f2bc78">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f8ac</objectGroupId>
+	<objectId>f8aca06f-ff79-f17f-9a54-e4eff3f2bc78</objectId>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<file-name>f8aca06f-ff79-f17f-9a54-e4eff3f2bc78.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Look, I&amp;rsquo;m going to be honest with you: I&amp;rsquo;m not a builder.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;I mean, I&amp;rsquo;ve seen plenty of buildings and I&amp;rsquo;ve even been inside many different buildings. I&amp;rsquo;m even inside one right now. But, I couldn&amp;rsquo;t tell you how it was built, what sorts of materials were used, or whether or not the craftsmen who put it all together, actually did a good job. As far as I&amp;rsquo;m concerned, the building looks good and it seems to do the job it was designed to do.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Basically - and I know it&amp;rsquo;s not really obvious - I&amp;rsquo;m not a builder.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Luckily for me - and you, for that matter, if you&amp;rsquo;re also not a builder - you don&amp;rsquo;t need to know anything about buildings or construction to become an expert at building your financial future.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;In today&amp;rsquo;s blog, we&amp;rsquo;re talking all about the steps involved in making the right decisions to build a strong financial future for yourself.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;First, we&amp;rsquo;ll be hearing from our very own Andiswa Gqwaru - Velocity Club&amp;rsquo;s client success lead - with her financial future construction tips.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;After that, we&amp;rsquo;ll walk you through some practical steps that anyone can follow, to get yourself on the road to good decision making for your future. We&amp;rsquo;ll give you practical examples of what financial planning looks like and how to implement it in your own life.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;As promised, we begin with financial construction lessons from Andiswa Gqwaru. Here, she shares her advice on the 4 steps to building a strong financial future for yourself.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Lessons on building a strong financial future. Andiswa Gqwaru&amp;rsquo;s 4 tips:&lt;/h2&gt;
+&lt;p class="fw-900 no-margin-bottom" style="margin-bottom: 0px; line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Step 1: Lay a strong foundation&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;To do this, save at least 20% of your net income (that&amp;rsquo;s income after taxes, but before deductions).&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Sound like a lot?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Well, the good news is that if you work for a company with benefits, 15% of this is already saved. If not, then you need to think about where that 15% will come from. The remaining 5% should come from your actual income.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Next, you need to establish an emergency fund. For that, you need to ensure that you have at least 6 months&amp;rsquo; worth of living expenses saved. If you do this calculation and the number is unreasonably high, you may be living beyond your means (spending more than what you earn each month).&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Finally, protect your assets - this means having insurance.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T10:42:52.770Z</createdDate>
+	<createdDate_dt>2021-09-01T10:42:52.770Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:42:52.770Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:42:52.770Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>010e278f-23d3-270c-b912-0c9c2369fd96</key>
+	<value>Callout green</value>
+<component id="010e278f-23d3-270c-b912-0c9c2369fd96">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>010e</objectGroupId>
+	<objectId>010e278f-23d3-270c-b912-0c9c2369fd96</objectId>
+	<file-name>010e278f-23d3-270c-b912-0c9c2369fd96.xml</file-name>
+	<internal-name>Callout green</internal-name>
+	<bg_color_s>bg--green</bg_color_s>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #29e56f;"&gt;Insurance must not be seen as a luxury purchase, because it protects your big assets like your car and your home, but also one of the biggest assets you will ever have, and that is the ability to earn an income.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T10:43:22.270Z</createdDate>
+	<createdDate_dt>2021-09-01T10:43:22.270Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:43:22.270Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:43:22.270Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>b0b51274-a920-5b64-6190-9d348a0a099c</key>
+	<value>Sec 1</value>
+<component id="b0b51274-a920-5b64-6190-9d348a0a099c">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b0b5</objectGroupId>
+	<objectId>b0b51274-a920-5b64-6190-9d348a0a099c</objectId>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>b0b51274-a920-5b64-6190-9d348a0a099c.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Think of it like this: If your house burns down or your car is stolen and you can&amp;rsquo;t afford to immediately replace those things, then you are vulnerable and need insurance. Or if for some reason you get disabled and can no longer work, then you need insurance that protects your income.&lt;/p&gt;
+&lt;p class="fw-900 no-margin-bottom" style="margin-bottom: 0px; line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Step 2: Use strong building materials&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Debt makes our building materials weak. This is particularly referring to bad debt like credit cards, personal loans, overdrafts and store accounts. Interest rates on these types of debt are scary and are going to be especially bad news for you if you lose your income or your income is reduced in the coming months.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you can keep your bad debt as low as possible, that means that your building materials - your income - are strong and will keep your house standing.&lt;/p&gt;
+&lt;p class="fw-900 no-margin-bottom" style="margin-bottom: 0px; line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Step 3: Minimise construction mistakes&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We&amp;rsquo;re human and we all make mistakes. But if you want to build a strong financial future, there are a few building mistakes you should avoid:&lt;/p&gt;
+&lt;ul style="color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;
+&lt;li&gt;Don&amp;rsquo;t accumulate debt instead of tackling your existing debt. Interest rates are low. Pay as much of it off as fast as you can.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t cancel your insurance - you may need it to survive.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t fall for &amp;lsquo;get rich quick&amp;rsquo; schemes and pyramid schemes. There is no such thing to make you rich fast.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t do nothing. This kind of inaction is going to end badly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="fw-900 no-margin-bottom" style="margin-bottom: 0px; line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Step 4: Spread the financial load&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;How do you spread out the financial load? With a budget!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;With the right budget, you can cover your needs, your savings and your goals all in one go.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The trick to doing the right budget is to realise that every Rand should have a job. No exceptions. Your budget is the labour camp for your money. Your job is to make sure they all have the right jobs.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;With a good budget, you can see what trade-offs you&amp;rsquo;re willing to make without extending your spending beyond your means and being tempted to accumulate bad debt.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;So now that we understand the principles behind good financial planning, what are the practical steps we can start taking today, to build the financial future we&amp;rsquo;ve been talking about? Let&amp;rsquo;s dig in.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;&lt;strong&gt;Practical steps to build a great financial future:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol style="color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;
+&lt;li&gt;Decide on your goals&lt;/li&gt;
+&lt;li&gt;Put your money on a diet&lt;/li&gt;
+&lt;li&gt;Start an emergency fund&lt;/li&gt;
+&lt;li&gt;Get rid of bad debt&lt;/li&gt;
+&lt;/ol&gt;</sectionContent_html>
+	<createdDate>2021-09-01T10:43:52.455Z</createdDate>
+	<createdDate_dt>2021-09-01T10:43:52.455Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:43:52.455Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:43:52.455Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>79295e66-6654-3dc4-2baf-a2876e77a6c1</key>
+	<value>Callout left one</value>
+<component id="79295e66-6654-3dc4-2baf-a2876e77a6c1">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7929</objectGroupId>
+	<objectId>79295e66-6654-3dc4-2baf-a2876e77a6c1</objectId>
+	<file-name>79295e66-6654-3dc4-2baf-a2876e77a6c1.xml</file-name>
+	<internal-name>Callout left one</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;The trick to doing the right budget is to realise that every Rand should have a job. No exceptions.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T10:44:23.764Z</createdDate>
+	<createdDate_dt>2021-09-01T10:44:23.764Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:44:23.764Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:44:23.764Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>f135a7bf-e5f7-49f7-497a-f1d448bb76cf</key>
+	<value>Sec 2</value>
+<component id="f135a7bf-e5f7-49f7-497a-f1d448bb76cf">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f135</objectGroupId>
+	<objectId>f135a7bf-e5f7-49f7-497a-f1d448bb76cf</objectId>
+	<file-name>f135a7bf-e5f7-49f7-497a-f1d448bb76cf.xml</file-name>
+	<internal-name>Sec 2</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;1. Decide on your goals&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The first step towards building a great financial future is deciding what that future looks like. What are the things you want to have, or do, over the next 30 years? The reason we do this is because once we know where we are going, we can plan on how to get there. Otherwise, your goals are nothing more than wishes.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Think about your goals by dividing them up into specific periods, like this:&lt;br /&gt;1 - 3 years up until 2022&lt;br /&gt;3 - 5 years up until 2024&lt;br /&gt;5 - 10 years up until 2029&lt;br /&gt;10 - 30 years up until 2049&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Write all of them down and keep it somewhere safe. These goals might change over time, and that&amp;rsquo;s fine, but be sure to go back and update that list.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;2. Put your money on a diet&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;When we want our body to be healthy, we need to find a balance between the number of calories we put in and making sure that we get enough exercise. Financial health is no different.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Putting our money on a diet means using just the right amount of money and not overspending on things that aren&amp;rsquo;t important.&lt;/p&gt;
+&lt;p class="fw-900" style="margin-bottom: var(--space-md); line-height: var(--body-line-height); font-weight: 900; color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;To do this, we like to use a simple principle: The 65-15-20 principle. Here&amp;rsquo;s how it works:&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Use a maximum of&amp;nbsp;&lt;strong&gt;65% of your net income (after tax) to pay for your needs&lt;/strong&gt;. These are the things that are essential for you to live, like housing, transport, insurance, food, education, and minimum debt repayments.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Use another&amp;nbsp;&lt;strong&gt;15% of your net income towards wants&lt;/strong&gt;. These are luxuries, they&amp;rsquo;re non-essential to daily life. Examples of these are entertainment, subscriptions, hobbies, eating out and takeaways, holidays, tobacco, and alcohol.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Finally, put&amp;nbsp;&lt;strong&gt;20% of your net income into savings&lt;/strong&gt;. This can be split further into 15% towards long-term goals of securing your financial freedom, and 5% for short and medium-term goals (like buying a house, for example). These are things like your emergency fund, retirement, financial freedom goals, long-term dreams, and wealth-building.&lt;br /&gt;The first question many people ask us at this point is, &amp;ldquo;Where do I find the money to start saving or to pay off debt faster?&amp;rdquo; The answer is by intelligently cutting expenses.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;What does that mean? Here are some examples:&lt;/p&gt;
+&lt;ul style="color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;
+&lt;li&gt;Cut 20 - 50% of your entertainment spending. This includes alcohol, smoking, magazines and takeaways.&lt;/li&gt;
+&lt;li&gt;Renegotiate short-term insurance premiums on your car or home (if applicable to you).&lt;/li&gt;
+&lt;li&gt;Review your cell phone, mobile data and internet packages. You really don&amp;rsquo;t need the swankiest and largest package or cell phone available for your needs.&lt;/li&gt;
+&lt;li&gt;Cancel any unused or minimally-used subscriptions, like gym memberships, magazine subscriptions, mobile games and streaming services.&lt;/li&gt;
+&lt;li&gt;Look at your bank account package and make sure you only pay for services that you really need.&lt;/li&gt;
+&lt;li&gt;When grocery shopping, make a list of what is needed and stick to it. Buy in bulk when it makes sense to do so.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you are having a difficult time tracking where you&amp;rsquo;re spending goes, let your financial adviser know and we will share some tools with you.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T10:44:57.931Z</createdDate>
+	<createdDate_dt>2021-09-01T10:44:57.931Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:44:57.931Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:44:57.931Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>b4903f5d-7607-b529-97fe-934876f0185b</key>
+	<value>Callout right one</value>
+<component id="b4903f5d-7607-b529-97fe-934876f0185b">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b490</objectGroupId>
+	<objectId>b4903f5d-7607-b529-97fe-934876f0185b</objectId>
+	<file-name>b4903f5d-7607-b529-97fe-934876f0185b.xml</file-name>
+	<internal-name>Callout right one</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Putting our money on a diet means using just the right amount of money and not overspending on things that aren&amp;rsquo;t important.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T10:45:30.453Z</createdDate>
+	<createdDate_dt>2021-09-01T10:45:30.453Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:45:30.453Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:45:30.453Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>f38ffaf0-3a6e-3def-72e7-616d18a27c0d</key>
+	<value>Sec 3</value>
+<component id="f38ffaf0-3a6e-3def-72e7-616d18a27c0d">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f38f</objectGroupId>
+	<objectId>f38ffaf0-3a6e-3def-72e7-616d18a27c0d</objectId>
+	<internal-name>Sec 3</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>f38ffaf0-3a6e-3def-72e7-616d18a27c0d.xml</file-name>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;3. Start an emergency fund&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Andiswa spoke about this concept briefly in her construction methods that we covered earlier. An emergency fund is there to cover unexpected expenses in life. For example, a sudden car repair bill, or a medical bill.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;When we don&amp;rsquo;t have an emergency fund, we are forced to cover those unexpected bills by using credit cards or taking out loans. The problem with this is that you can end up spending huge amounts of money on interest!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Bad debt has a habit of spiraling out of control, slowly, without you even realising it.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We believe that your starter emergency fund goal should be R7 500. To get there, we recommend saving R500 a month towards it. The easiest way to make this happen is to set up a scheduled transfer that transfers that money out of your account and into your savings account, the same day you get paid. This saves you from your bad habits and removes the temptation to put that money towards those new Nike running shoes you&amp;rsquo;ve been wanting.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Open an easy and cheap savings account (check out this nifty account from&amp;nbsp;&lt;a style="background-color: transparent;" href="https://sni.momentum.co.za/for" target="_blank" rel="noopener"&gt;Momentum&lt;/a&gt;), set up the scheduled transfer and remember, don&amp;rsquo;t touch that money. It&amp;rsquo;s for emergencies only!&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T10:46:06.498Z</createdDate>
+	<createdDate_dt>2021-09-01T10:46:06.498Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:46:06.498Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:46:06.498Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>75b099b5-8a39-eb11-6f60-9d2a76816bf5</key>
+	<value>Callout left two</value>
+<component id="75b099b5-8a39-eb11-6f60-9d2a76816bf5">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>75b0</objectGroupId>
+	<objectId>75b099b5-8a39-eb11-6f60-9d2a76816bf5</objectId>
+	<internal-name>Callout left two</internal-name>
+	<file-name>75b099b5-8a39-eb11-6f60-9d2a76816bf5.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Bad debt has a habit of spiraling out of control, slowly, without you even realising it.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T10:46:30.714Z</createdDate>
+	<createdDate_dt>2021-09-01T10:46:30.714Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:46:30.714Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:46:30.714Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>4eeefe37-5323-715d-4bf0-b47f085d868c</key>
+	<value>Sec 4</value>
+<component id="4eeefe37-5323-715d-4bf0-b47f085d868c">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4eee</objectGroupId>
+	<objectId>4eeefe37-5323-715d-4bf0-b47f085d868c</objectId>
+	<file-name>4eeefe37-5323-715d-4bf0-b47f085d868c.xml</file-name>
+	<internal-name>Sec 4</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;4. Get rid of bad debt&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Bad debt is money you borrow from a bank or a store to live a lifestyle that&amp;rsquo;s above what you earn. So its things like credit cards, store accounts, overdrafts and personal loans. They are sneaky things that can make you a slave to your money and a slave to the people controlling it (the banks and the retailers).&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Bad debt has a habit of spiraling out of control, slowly, without you even realising it. This is because these kinds of debts have high interest rates and only actually require you to pay the minimum amounts due on the accounts. When you do that, all you&amp;rsquo;re doing is repaying the interest on the debt and not the actual credit (the capital) itself. And this could go on for months and months or even years. In the end, you can be locked into paying off twice the amount that you borrowed, and it&amp;rsquo;ll take you years and years to do. And all of this because you used the bank&amp;rsquo;s money to fund your bling lifestyle&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;So, next time you&amp;rsquo;re tempted to make a big purchase you can&amp;rsquo;t pay cash for, think twice about it.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The next question then is: How do I tackle paying off my bad debts?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We prefer a method that is known as the &amp;lsquo;snowball method&amp;rsquo;. In short, this method involves listing your debts from the smallest to the largest outstanding balance, regardless of the interest rates that you pay on them. Then, you make the minimum payments on all of them except the one with the smallest balance. You pay as much as your budget will allow for on that smallest debt. When that one is paid off, you move on to the next one, using the money that has been freed up from the payments on the previous debt, and so on. Repeat until they are all paid in full.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Remember: Little expenses add up. R50 purchases made here and there can easily become R1 000 in a month. That&amp;rsquo;s money that could&amp;rsquo;ve gone towards paying off your debt instead of increasing it.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T10:46:56.813Z</createdDate>
+	<createdDate_dt>2021-09-01T10:46:56.813Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:46:56.813Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:46:56.813Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>d0969d80-cf2d-9ec8-4e62-1cab7229558d</key>
+	<value>Callout right two</value>
+<component id="d0969d80-cf2d-9ec8-4e62-1cab7229558d">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d096</objectGroupId>
+	<objectId>d0969d80-cf2d-9ec8-4e62-1cab7229558d</objectId>
+	<internal-name>Callout right two</internal-name>
+	<file-name>d0969d80-cf2d-9ec8-4e62-1cab7229558d.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;When you have an emergency fund, you have money put away for exactly those kinds of expenses. No stress or panic involved and best of all, there&amp;rsquo;s no interest payable. Nice!&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T10:47:24.021Z</createdDate>
+	<createdDate_dt>2021-09-01T10:47:24.021Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:47:24.021Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:47:24.021Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>48faa516-7c1e-039a-8405-323f669efca0</key>
+	<value>Conclusion</value>
+<component id="48faa516-7c1e-039a-8405-323f669efca0">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>48fa</objectGroupId>
+	<objectId>48faa516-7c1e-039a-8405-323f669efca0</objectId>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<file-name>48faa516-7c1e-039a-8405-323f669efca0.xml</file-name>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Conclusion&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you&amp;rsquo;re interested in laying the groundwork for long-term financial success, we&amp;rsquo;ve given you Andiswa&amp;rsquo;s keys to starting your construction site. Her lessons are: Save 20% of your net income, keep your bad (credit card or loans) debt as low as possible, don&amp;rsquo;t cancel your insurance, don&amp;rsquo;t do nothing about your financial situation, and make sure you have a great budget.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;After that, we gave you some practical tips to help you on your way to building a great financial future. This included listing your goals, putting your money on a diet, starting an emergency fund, and paying off your bad debts as soon as possible.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Phew, that was a lot to take in!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you like what you&amp;rsquo;ve read here today and you are inspired to take command of your finances, then we encourage you to become a Velocity Club member. You&amp;rsquo;ll get access to your own financial adviser who will help you with all of your questions about getting your finances in future so that you can reach all of your financial goals.&amp;nbsp;&lt;a style="background-color: transparent; color: var(--color-black);" data-tf-slider="Sgz7HGMv" data-tf-width="550" data-tf-hidden="utm_source=CTA,utm_medium=website,utm_campaign=velocityclub_site,utm_term=,utm_content=" data-tf-loaded="true"&gt;Contact us&lt;/a&gt;&amp;nbsp;today, we would love to hear from you.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T10:48:07.385Z</createdDate>
+	<createdDate_dt>2021-09-01T10:48:07.385Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:48:07.385Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:48:07.385Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<file-name>index.xml</file-name>
+	<folder-name>building-your-financial-future</folder-name>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<date_dt>2020-10-02T04:00:00.000Z</date_dt>
+	<createdDate>2021-09-01T10:41:08.582Z</createdDate>
+	<createdDate_dt>2021-09-01T10:41:08.582Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T10:41:08.582Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T10:41:08.582Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

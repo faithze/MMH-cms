@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b41d</objectGroupId>
+	<objectId>b41d62d3-507e-a304-2e2b-60115d0e19ab</objectId>
+	<internal-name>Residential property - The ins and outs</internal-name>
+	<pageName_s>The ins and outs of buying vs. renting</pageName_s>
+	<pageDescription_s>The ins and outs of buying vs. renting. Speak to a financial adviser to find out what the best option is. Email info@velocityclub.co.za</pageDescription_s>
+	<title_s>Residential property - The ins and outs</title_s>
+	<manualDate_s/>
+	<imageAlt_s>The front façade of an upmarket, contemporary residential property.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/article3-1-2_section-896x580.jpg</image_url_s>
+	<post_id_s>list-col-6</post_id_s>
+	<disabled>false</disabled>
+	<file-name>index.xml</file-name>
+	<folder-name>residential-property-the-ins-and-outs</folder-name>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>dbe1320d-240c-3394-60cb-f88d6cb11d0c</key>
+	<value>Intro</value>
+<component id="dbe1320d-240c-3394-60cb-f88d6cb11d0c">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dbe1</objectGroupId>
+	<objectId>dbe1320d-240c-3394-60cb-f88d6cb11d0c</objectId>
+	<file-name>dbe1320d-240c-3394-60cb-f88d6cb11d0c.xml</file-name>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you&amp;rsquo;re anything like everyone else, you need a place to live. And like most of us, that place probably forces you to pay rent. But what you may not know is that being stuck paying rent forever isn&amp;rsquo;t your only option.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Buying a home is a great way to escape that endless cycle of renting. And now, thanks to crazy low interest rates, it&amp;rsquo;s within reach of more of us than almost ever before.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;But it&amp;rsquo;s also a huge commitment that requires you to really understand what you are getting into. Otherwise, it could cost you much more than you realise.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:24:08.467Z</createdDate>
+	<createdDate_dt>2021-09-01T13:24:08.467Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:24:08.467Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:24:08.467Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>8d2fd011-ee74-b746-c134-97139a0532d1</key>
+	<value>Callout green</value>
+<component id="8d2fd011-ee74-b746-c134-97139a0532d1">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8d2f</objectGroupId>
+	<objectId>8d2fd011-ee74-b746-c134-97139a0532d1</objectId>
+	<internal-name>Callout green</internal-name>
+	<bg_color_s>bg--green</bg_color_s>
+	<file-name>8d2fd011-ee74-b746-c134-97139a0532d1.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #29e56f;"&gt;Our view is that a home, in most cases, is not an investment that will create wealth in the long term. But it IS an asset that can really kick start your overall portfolio.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:24:33.588Z</createdDate>
+	<createdDate_dt>2021-09-01T13:24:33.588Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:24:33.588Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:24:33.588Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>186098ed-bb6b-52a5-9a87-8c8eeea7f894</key>
+	<value>Sec 1</value>
+<component id="186098ed-bb6b-52a5-9a87-8c8eeea7f894">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1860</objectGroupId>
+	<objectId>186098ed-bb6b-52a5-9a87-8c8eeea7f894</objectId>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>186098ed-bb6b-52a5-9a87-8c8eeea7f894.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you&amp;rsquo;ve ever dreamed of owning your own place, and you&amp;rsquo;re ready to plunge into the finances of it, we&amp;rsquo;re here to get you savvy on everything you need to know before you start the exciting process of house hunting. But before we do that, let&amp;rsquo;s answer that big question you&amp;rsquo;re probably already asking:&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Why should I buy when I can just rent?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;We&amp;rsquo;re glad you asked!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The answer is:&lt;/p&gt;
+&lt;ol style="color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;
+&lt;li&gt;Buying frees you from landlords&lt;/li&gt;
+&lt;li&gt;You can change the property to suit your tastes&lt;/li&gt;
+&lt;li&gt;In the long run, you might make money&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;But just like anything in life, it&amp;rsquo;s not always as simple as that and there is some fine print. So let&amp;rsquo;s jump in and look at those 3 in a bit more detail.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;1. Freedom from landlords&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Buying a house frees you from the demands and stresses of dealing with a landlord. For example:&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Are you currently stuck waiting for months for the landlord to send someone to come out and fix the bathroom cupboard?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Is the place in desperate need of a repaint that the landlord is too cheap to arrange?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Are you annoyed by the landlord&amp;rsquo;s insistence on sending you Whatsapp voice notes instead of normal text messages like everybody else?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Whatever the issue is, dealing with landlords can often be a stressful and frustrating experience.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;When you buy your own house, all of that changes. Now you are the boss.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Broken bathroom cupboard? You can tear the doors right off if you prefer a more open look. It&amp;rsquo;s your house. You make the rules.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Prefer text messages to voice notes? Good, so do the rest of us!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Think the place needs a new coat of paint? No problem! Go forth and start repainting!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;But with great power comes with great responsibility.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you tear those bathroom cupboards off and a water line breaks and floods the bathroom, that&amp;rsquo;s your responsibility to fix at your own cost.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;When that tree in the garden breaks a hole in the neighbour&amp;rsquo;s fence, the cost of those repairs is coming out of your pocket.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Becoming a homeowner means gaining the freedom to make your own decisions about how you use and maintain the property. If those things are important to you, then home ownership may be right for you, if you can afford it.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;2. You can change the property to suit your tastes&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Ever looked at your old, tired rental property and imagined the things you would do to it if it was yours?&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;When you buy a house, you have the freedom to remodel it to suit your style - just make sure you check in with the local home owners association first, if there is one! They might not approve of that glowing Gucci lawn sign you&amp;rsquo;ve been eyeing :*(&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you&amp;rsquo;ve always wanted air-conditioning inside your house and an island counter in your kitchen, you can have it. Or maybe you own a bunch of designer clothes and you&amp;rsquo;ve always wanted a dedicated wardrobe to display it all? Having your own home gives you the ability to create those spaces, achieve those dreams and live the home life you always wanted.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;3. In the long run, you can actually make money&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Buying a house can be expensive and there are a lot of costs involved. But if you make all the right decisions, it can actually be profitable over the long term.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:25:05.058Z</createdDate>
+	<createdDate_dt>2021-09-01T13:25:05.058Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:25:05.058Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:25:05.058Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>ff8c50e9-f6a6-f6b2-b833-320aa036da12</key>
+	<value>Callout left one</value>
+<component id="ff8c50e9-f6a6-f6b2-b833-320aa036da12">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ff8c</objectGroupId>
+	<objectId>ff8c50e9-f6a6-f6b2-b833-320aa036da12</objectId>
+	<internal-name>Callout left one</internal-name>
+	<file-name>ff8c50e9-f6a6-f6b2-b833-320aa036da12.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;Making the right decisions involves understanding what costs to expect, and properly planning for them.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:25:28.280Z</createdDate>
+	<createdDate_dt>2021-09-01T13:25:28.280Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:25:28.280Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:25:28.280Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>67b28569-6f96-dbdf-db5d-44635e50e812</key>
+	<value>Sec 2</value>
+<component id="67b28569-6f96-dbdf-db5d-44635e50e812">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>67b2</objectGroupId>
+	<objectId>67b28569-6f96-dbdf-db5d-44635e50e812</objectId>
+	<file-name>67b28569-6f96-dbdf-db5d-44635e50e812.xml</file-name>
+	<internal-name>Sec 2</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The 2 main costs are:&lt;/p&gt;
+&lt;ol style="color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;
+&lt;li&gt;The upfront costs of actually buying the house&lt;/li&gt;
+&lt;li&gt;The ongoing costs of owning the house&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The upfront costs, also known as &amp;lsquo;transaction costs&amp;rsquo;, are the expenses you have to pay when you buy a property. The two biggest of those are the transfer duties (basically, the tax you pay when you buy a house), and the bond registration costs (the fees you pay the attorneys to register your new bond at the deeds office).&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The ongoing costs of owning a house probably won&amp;rsquo;t be obvious to you if you&amp;rsquo;re used to renting. Firstly, you&amp;rsquo;ll need to insure your house (sorry, no getting out of that one - the bank requires it). Then, you&amp;rsquo;ll need to pay the monthly rates bill to the municipality and a monthly levy if you&amp;rsquo;re in a complex or estate. And after that, you&amp;rsquo;ll have to deal with any maintenance issues that come up (like that annoying broken bathroom cupboard we spoke about earlier!).&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;The profit&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Now that we&amp;rsquo;ve taken all your money and you&amp;rsquo;re all set up in your new house, kick off your shoes and make yourself comfy, because you&amp;rsquo;re going to be there a while. You wanted to make a profit, right? Of course you do, otherwise, you wouldn&amp;rsquo;t be reading this.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;According to our financial advisers, you need to be in your house for at least 10 years before you can consider selling it. This is the period of time it will take for your house to increase in value and for you to have paid off enough money into the bond, for the sale of the house to become profitable.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:25:52.621Z</createdDate>
+	<createdDate_dt>2021-09-01T13:25:52.621Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:25:52.621Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:25:52.621Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>5568932a-cf4e-28e2-591d-76303bfe8256</key>
+	<value>Callout right one</value>
+<component id="5568932a-cf4e-28e2-591d-76303bfe8256">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5568</objectGroupId>
+	<objectId>5568932a-cf4e-28e2-591d-76303bfe8256</objectId>
+	<internal-name>Callout right one</internal-name>
+	<file-name>5568932a-cf4e-28e2-591d-76303bfe8256.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;According to our financial advisers, you need to be in your house for at least 10 years before you can consider selling it.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:26:20.230Z</createdDate>
+	<createdDate_dt>2021-09-01T13:26:20.230Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:26:20.230Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:26:20.230Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>5a098de4-46a3-850b-7541-2e187c0313f9</key>
+	<value>Conclusion</value>
+<component id="5a098de4-46a3-850b-7541-2e187c0313f9">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5a09</objectGroupId>
+	<objectId>5a098de4-46a3-850b-7541-2e187c0313f9</objectId>
+	<file-name>5a098de4-46a3-850b-7541-2e187c0313f9.xml</file-name>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;How can Velocity Club help you buy your first property?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;You&amp;rsquo;ve got questions? We&amp;rsquo;ve got answers.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Whether you need help with budgeting towards your first property or understanding how to afford that house, we can help. No need to let any of that frighten you - we&amp;rsquo;ll assist with all of the calculations. Even if you&amp;rsquo;re not sure whether you should buy at all or just continue renting, we&amp;rsquo;ll help you decide what&amp;rsquo;s best for you.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:26:40.953Z</createdDate>
+	<createdDate_dt>2021-09-01T13:26:40.953Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:26:40.953Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:26:40.953Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<date_dt>2020-10-07T04:00:00.000Z</date_dt>
+	<createdDate>2021-09-01T10:55:28.525Z</createdDate>
+	<createdDate_dt>2021-09-01T10:55:28.525Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T16:37:25.289Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T16:37:25.289Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

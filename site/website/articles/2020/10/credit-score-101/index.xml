@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b3f3</objectGroupId>
+	<objectId>b3f39269-b7c8-8038-0dc1-b1bbb450821a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>credit-score-101</folder-name>
+	<disabled>false</disabled>
+	<internal-name>Credit score 101</internal-name>
+	<pageName_s>Credit score 101 | What’s a good credit score?</pageName_s>
+	<pageDescription_s>If your debts are dragging you down and negatively affecting your credit score, speak to your financial adviser to guide and coach you on your journey to success.</pageDescription_s>
+	<title_s>Credit score 101</title_s>
+	<manualDate_s/>
+	<imageAlt_s>Young lady wearing a red turtle neck sweater and yellow suit jacket smiling as she holds her cell phone, while drinking a cup of coffee.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/article5-1-2_section-896x580.jpg</image_url_s>
+	<post_id_s/>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>7faf82de-4b89-7039-9b0c-59fa188ca59f</key>
+	<value>Intro</value>
+<component id="7faf82de-4b89-7039-9b0c-59fa188ca59f">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7faf</objectGroupId>
+	<objectId>7faf82de-4b89-7039-9b0c-59fa188ca59f</objectId>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<file-name>7faf82de-4b89-7039-9b0c-59fa188ca59f.xml</file-name>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;High scores. As kids, we chased them wherever we went. Whether on the school field or on a video game screen, we wanted those scores every day, every time.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;But then we hit adulthood and somehow it was all about low scores. Lose weight, lower interest rates, lower repayments, fewer work commitments, less debt.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Today we&amp;rsquo;re going to discuss a high score that as adults we all need to chase:&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Our credit score.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:31:07.290Z</createdDate>
+	<createdDate_dt>2021-09-01T13:31:07.290Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:31:07.290Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:31:07.290Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>7104aad9-dc77-e477-f425-92346eaf2af3</key>
+	<value>Callout yellow</value>
+<component id="7104aad9-dc77-e477-f425-92346eaf2af3">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7104</objectGroupId>
+	<objectId>7104aad9-dc77-e477-f425-92346eaf2af3</objectId>
+	<internal-name>Callout yellow</internal-name>
+	<bg_color_s>bg--yellow</bg_color_s>
+	<file-name>7104aad9-dc77-e477-f425-92346eaf2af3.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #ffbe00; color: #323232 !important;"&gt;Your credit score is used by credit providers to evaluate your behaviour around debt and whether or not you will repay your loans on time.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:31:30.189Z</createdDate>
+	<createdDate_dt>2021-09-01T13:31:30.189Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:31:30.189Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:31:30.189Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>e3990b52-354c-9707-cc8b-62b07c14c1eb</key>
+	<value>Sec 1</value>
+<component id="e3990b52-354c-9707-cc8b-62b07c14c1eb">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e399</objectGroupId>
+	<objectId>e3990b52-354c-9707-cc8b-62b07c14c1eb</objectId>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>e3990b52-354c-9707-cc8b-62b07c14c1eb.xml</file-name>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What is a credit score?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Your credit score is a number ranging from 0 to 999 (depending on which credit bureau you use). The number is a summary of your creditworthiness, which refers to how much of a risk lenders believe you to be. The number ranges from high risk to minimal risk.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Your credit score is used by credit providers to evaluate your behaviour around debt and whether or not you will repay your loans on time. Basically, it&amp;rsquo;s their way of deciding how much risk you potentially pose to them, so that they can charge you accordingly.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Why should I be interested in my credit score?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Because your credit score affects whether the bank will loan you money for your next car, or home, or give you a credit card or even just a personal loan. Your credit score is even used in the calculation of insurance premiums payable on your car and even household content (otherwise known as short-term insurance). If you have a good credit score, it&amp;rsquo;ll increase your chances of being approved for debt and paying lower short-term insurance premiums. If your score is bad, you will find it difficult to access credit. Your home loan application may be declined or if you are offered one, it&amp;rsquo;ll be subject to a high interest rate versus someone with a good credit score.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;How do I check my credit score?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;According to law, South African citizens are eligible to have access to one free credit report a year. You can obtain this annual free credit report from any one of the following credit bureaus:&amp;nbsp;&lt;a style="background-color: transparent;" href="https://www.transunion.co.za/" target="_blank" rel="noopener"&gt;TransUnion&lt;/a&gt;,&amp;nbsp;&lt;a style="background-color: transparent;" href="https://compuscan.co.za/" target="_blank" rel="noopener"&gt;Compuscan&lt;/a&gt;,&amp;nbsp;&lt;a style="background-color: transparent;" href="https://www.experian.co.za/" target="_blank" rel="noopener"&gt;Experian&lt;/a&gt;, and&amp;nbsp;&lt;a style="background-color: transparent;" href="https://www.xds.co.za/" target="_blank" rel="noopener"&gt;XDS&lt;/a&gt;. The website&amp;nbsp;&lt;a style="background-color: transparent;" href="https://www.clearscore.com/za/" target="_blank" rel="noopener"&gt;ClearScore&lt;/a&gt;&amp;nbsp;also offers a free credit report and a coaching tool to assist with building a credit score, improving it and repairing your credit score if it falls within a certain category. The FNB Banking App has a credit status functionality under &amp;lsquo;Nav Money&amp;rsquo; and TymeBank has an app called &amp;ldquo;TymeCoach '' which also provides credit status for free.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What is considered a good score?&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;A good score can range between 620 and 999 depending on which bureau is being used and depending on the information used to calculate your score. So while a score of 620 is very good at one company, it might mean only an average score for another company. The general rule is that the higher the credit score, the lower the risk you represent to the credit provider. Similarly, the lower the credit score, the higher the risk you represent to the credit provider.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;So the lesson is: Chase those high credit scores just like you chased all those high scores when you were a kid.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:31:56.781Z</createdDate>
+	<createdDate_dt>2021-09-01T13:31:56.781Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:31:56.781Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:31:56.781Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>ec885566-6d0c-0a0b-b50c-5281cf6b7035</key>
+	<value>Callout left one</value>
+<component id="ec885566-6d0c-0a0b-b50c-5281cf6b7035">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ec88</objectGroupId>
+	<objectId>ec885566-6d0c-0a0b-b50c-5281cf6b7035</objectId>
+	<file-name>ec885566-6d0c-0a0b-b50c-5281cf6b7035.xml</file-name>
+	<internal-name>Callout left one</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;If you have a good credit score, it&amp;rsquo;ll increase your chances of being approved for debt and paying lower short-term insurance premiums.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:32:27.274Z</createdDate>
+	<createdDate_dt>2021-09-01T13:32:27.274Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:32:27.274Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:32:27.274Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>46a7f825-86e9-97b1-f4dd-b2347afd9387</key>
+	<value>Sec 2</value>
+<component id="46a7f825-86e9-97b1-f4dd-b2347afd9387">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>46a7</objectGroupId>
+	<objectId>46a7f825-86e9-97b1-f4dd-b2347afd9387</objectId>
+	<file-name>46a7f825-86e9-97b1-f4dd-b2347afd9387.xml</file-name>
+	<internal-name>Sec 2</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What can you do to improve your credit score?&lt;/h2&gt;
+&lt;ul style="color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;
+&lt;li&gt;Don&amp;rsquo;t miss any payments on your loans or credit cards. A good way to ensure that this is sorted is to set up automated, or scheduled, payments on your account. You&amp;rsquo;ll need to set these to the minimum value but it&amp;rsquo;s always better if you can pay in a little more than that with each instalment.&lt;/li&gt;
+&lt;li&gt;Pay off debt.&lt;/li&gt;
+&lt;li&gt;Close old and unused accounts or credit cards.&lt;/li&gt;
+&lt;li&gt;Slow down or stop making new credit requests. That might be interpreted by credit providers, as you being hungry for debt.&lt;/li&gt;
+&lt;li&gt;Try not to use more than 30% of your credit limit on your credit cards or on your overdraft facility.&lt;/li&gt;
+&lt;li&gt;Spend responsibly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;What things impact my credit score?&lt;/h2&gt;
+&lt;ul style="color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;
+&lt;li&gt;Your general behaviour around the use of your credit.&lt;/li&gt;
+&lt;li&gt;Your payment history. In fact, this is probably the most important factor because credit providers check how frequently and how much you pay on your debt.&lt;/li&gt;
+&lt;li&gt;The amount of debt you actually have versus the amount of credit available to you.&lt;/li&gt;
+&lt;li&gt;Court judgments, the length of your credit history and the period over which different account applications and enquiries have been opened, all play an important role.&lt;/li&gt;
+&lt;/ul&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:32:51.303Z</createdDate>
+	<createdDate_dt>2021-09-01T13:32:51.303Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:32:51.303Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:32:51.303Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>c508cf47-4336-ba4d-b223-15c5414cada9</key>
+	<value>Callout right one</value>
+<component id="c508cf47-4336-ba4d-b223-15c5414cada9">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c508</objectGroupId>
+	<objectId>c508cf47-4336-ba4d-b223-15c5414cada9</objectId>
+	<internal-name>Callout right one</internal-name>
+	<file-name>c508cf47-4336-ba4d-b223-15c5414cada9.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;The general rule is that the higher the credit score, the lower the risk you represent to the credit provider.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:33:16.159Z</createdDate>
+	<createdDate_dt>2021-09-01T13:33:16.159Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:33:16.159Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:33:16.159Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>fc6a4897-4eaa-d87a-590e-aff186c8571b</key>
+	<value>Conclusion</value>
+<component id="fc6a4897-4eaa-d87a-590e-aff186c8571b">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fc6a</objectGroupId>
+	<objectId>fc6a4897-4eaa-d87a-590e-aff186c8571b</objectId>
+	<file-name>fc6a4897-4eaa-d87a-590e-aff186c8571b.xml</file-name>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Velocity Club Mythbusters: Blog edition&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;On tonight&amp;rsquo;s thrilling episode of Velocity Club Mythbusters, we&amp;rsquo;re going to be busting some common myths about credit scores. Here we go:&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Myth: Your credit report can only be accessed by credit providers.&lt;br /&gt;Fact: Actually, you can access your own credit report for free, once a year. Busted!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Myth: You can&amp;rsquo;t challenge credit bureau information.&lt;br /&gt;Fact: The law (National Credit Act, to be exact) allows you to lodge disputes with that particular bureau. Busted!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Myth: Credit bureaus decide whether or not you get credit.&lt;br /&gt;Fact: Credit bureaus provide information about your credit score which they obtain from several sources. They don&amp;rsquo;t make the decision whether or not to grant you credit. Busted!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Myth: Credit bureaus can &amp;lsquo;blacklist&amp;rsquo; you.&lt;br /&gt;Fact: Credit bureaus just act as data collectors. They record, maintain and interpret peoples&amp;rsquo; credit info and credit scores. Busted!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Myth: Someone else can fix your bad credit score on your behalf.&lt;br /&gt;Fact: The best way to improve your credit score is through the techniques we listed earlier. Nobody can do it on your behalf. Busted!&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;That&amp;rsquo;s it for tonight&amp;rsquo;s episode.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If your credit score is low or you have debts that are dragging your score down, it may be time to talk to a financial adviser. Velocity Club can help. Contact your financial adviser and they&amp;rsquo;ll assist you with all the advice you need to get your credit score back into the high numbers.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:33:40.181Z</createdDate>
+	<createdDate_dt>2021-09-01T13:33:40.181Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:33:40.181Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:33:40.181Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<date_dt>2020-10-05T04:00:00.000Z</date_dt>
+	<createdDate>2021-09-01T10:50:55.950Z</createdDate>
+	<createdDate_dt>2021-09-01T10:50:55.950Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:30:47.200Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:30:47.200Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

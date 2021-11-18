@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d04d</objectGroupId>
+	<objectId>d04dd71c-7615-3c19-77f2-c5bcdd622890</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>5-ways-to-survive-the-silly-season-without-wreaking-havoc-on-your-bank-balance</folder-name>
+	<disabled>false</disabled>
+	<internal-name>5 ways to survive the silly season without wreaking havoc on your bank balance</internal-name>
+	<pageName_s>5 ways to survive the silly season without wreaking havoc on your bank balance</pageName_s>
+	<pageDescription_s>Want to know how to prevent those Januworry blues? We give you 5 top financial tips to get through the silly season so you don’t end up in debt at the start of 2021.</pageDescription_s>
+	<title_s>5 ways to survive the silly season without wreaking havoc on your bank balance</title_s>
+	<manualDate_s/>
+	<imageAlt_s>Man in a smartly dressed suit holds a Christmas gift in one hand and a credit card in the other.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/article1-1-2_section-896x580.jpg</image_url_s>
+	<post_id_s>list-col-1d-tall</post_id_s>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>35f9bbd5-1686-e292-32d5-93698671a3fa</key>
+	<value>Intro</value>
+<component id="35f9bbd5-1686-e292-32d5-93698671a3fa">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>35f9</objectGroupId>
+	<objectId>35f9bbd5-1686-e292-32d5-93698671a3fa</objectId>
+	<file-name>35f9bbd5-1686-e292-32d5-93698671a3fa.xml</file-name>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;When you hear the word &amp;lsquo;Christmas&amp;rsquo;, what is the first thought that comes to mind and why is E the correct answer?&lt;/h2&gt;
+&lt;ol style="color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;" type="a"&gt;
+&lt;li&gt;Malls that are annoyingly full of shoppers and no parking&lt;/li&gt;
+&lt;li&gt;Mariah Carey singing &amp;ldquo;All I want for Christmas is you&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Steve from accounts pretending to be superman at last year&amp;rsquo;s office party&lt;/li&gt;
+&lt;li&gt;The broke January blues&lt;/li&gt;
+&lt;li&gt;All of the above&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;This is Velocity Club and so while sadly we can&amp;rsquo;t do much about A, B or C, we can do something about option D. So in today&amp;rsquo;s blog, we&amp;rsquo;re going to take a look at smart ways that you can control your spending during the silly season and avoid the dreaded Januworry depression.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;1. Skip the gift and go for goals&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Let&amp;rsquo;s be honest: Do we really need more stuff? So this Christmas, instead of giving family members more stuff, consider rather putting that money towards shared goals. That could be anything from paying off a chunk of your bond or credit card debt, or it could be saving towards an amazing family experience.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:37:02.330Z</createdDate>
+	<createdDate_dt>2021-09-01T13:37:02.330Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:37:02.330Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:37:02.330Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>c9f959f0-3785-4afe-ea92-d6ed69ee91b7</key>
+	<value>Callout blue</value>
+<component id="c9f959f0-3785-4afe-ea92-d6ed69ee91b7">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c9f9</objectGroupId>
+	<objectId>c9f959f0-3785-4afe-ea92-d6ed69ee91b7</objectId>
+	<file-name>c9f959f0-3785-4afe-ea92-d6ed69ee91b7.xml</file-name>
+	<internal-name>Callout blue</internal-name>
+	<bg_color_s>bg--blue</bg_color_s>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #02d2ff;"&gt;Arriving in January with less debt or no debt is a sure way to get 2021 off to a flying start and beat the usual January blues!&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:37:26.306Z</createdDate>
+	<createdDate_dt>2021-09-01T13:37:26.306Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:37:26.306Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:37:26.306Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>c84c384b-3d8f-1ef7-573e-54061e101f70</key>
+	<value>Sec 1</value>
+<component id="c84c384b-3d8f-1ef7-573e-54061e101f70">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c84c</objectGroupId>
+	<objectId>c84c384b-3d8f-1ef7-573e-54061e101f70</objectId>
+	<file-name>c84c384b-3d8f-1ef7-573e-54061e101f70.xml</file-name>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;And speaking of family experiences, children respond especially well to family time and experiences. So this year, why not give the kids something they won&amp;rsquo;t easily forget by giving them a memorable family experience? Plus, this will teach the kids the value of family time, shared experiences and memories, rather than things that they will outgrow anyway.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;2. Donate your deeds&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Chores and commitments. We all have them. And we all wish we could get a break from some of them.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:37:49.084Z</createdDate>
+	<createdDate_dt>2021-09-01T13:37:49.084Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:37:49.084Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:37:49.084Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>aa2f8352-bdc1-5154-7b6c-566adea62989</key>
+	<value>Callout left one</value>
+<component id="aa2f8352-bdc1-5154-7b6c-566adea62989">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>aa2f</objectGroupId>
+	<objectId>aa2f8352-bdc1-5154-7b6c-566adea62989</objectId>
+	<file-name>aa2f8352-bdc1-5154-7b6c-566adea62989.xml</file-name>
+	<internal-name>Callout left one</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;This festive season, you could donate your time to a friend or family member to tick a chore off their To-Do list for that day.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:38:11.282Z</createdDate>
+	<createdDate_dt>2021-09-01T13:38:11.282Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:38:11.282Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:38:11.282Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>62b192fb-434b-9ffb-f196-6dfd979380c7</key>
+	<value>Sec 2</value>
+<component id="62b192fb-434b-9ffb-f196-6dfd979380c7">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>62b1</objectGroupId>
+	<objectId>62b192fb-434b-9ffb-f196-6dfd979380c7</objectId>
+	<file-name>62b192fb-434b-9ffb-f196-6dfd979380c7.xml</file-name>
+	<internal-name>Sec 2</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<sectionContent_html>&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;After all, a chore that you don&amp;rsquo;t actually mind doing is no big deal to you, might be a chore that the other person dreads and procrastinates on for days. It could be something as small as picking the kids up from school or giving the house a quick vacuum.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;It could even be in the form of free babysitting for a couple of hours.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Whatever it is, arranging a &amp;lsquo;To-Do List Exchange&amp;rsquo; is a great way to give meaningfully to those around you, using only your time. And everyone gets something that they truly need and value.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Just be sure to make the process fair by putting in some guidelines, like time limitations so that nobody gets taken advantage of.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;3. Write it down or rhyme it out&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Sometimes, all we need are a few words of affirmation.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you&amp;rsquo;re someone who enjoys writing or rhyming or both, then a really heartfelt written letter or poem of appreciation given to a friend or loved one in place of a physical gift, can make a much more sincere gift that is sure to be treasured.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;4. Control your cards and limit budgets&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Credit cards can be a convenient means to afford that gift in a squeeze, but you&amp;rsquo;ll still be left with debt that can feel overwhelming come the old &amp;lsquo;3 months of January&amp;rsquo;. So, if you must use a credit card over December, make sure it&amp;rsquo;s within planned budgets and for specific planned needs.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;And for bonus points, make sure you can pay those purchases off at the end of the month.&lt;/p&gt;
+&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;5. Prioritise your priorities - not your parties&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;Christmas parties are fun. For a night.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;And then comes the post-party blues the next morning when you wake up and groggily look at your phone. Then you see all the SMSes from all those semi-tipsy card swipes you did the night before and wonder how you are going to make it through the rest of the month.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you&amp;rsquo;re into partying, that&amp;rsquo;s totally fine, but make sure that you budget with your financial priorities, can cope with your festive season social life. One way to do this is to be specific about which parties you are going to attend and how much you will allow yourself to spend so that you don&amp;rsquo;t lose track of your goals.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:38:34.476Z</createdDate>
+	<createdDate_dt>2021-09-01T13:38:34.476Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:38:34.476Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:38:34.476Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>1d79306c-d321-b47d-8e35-6e8b2ab2c665</key>
+	<value>Callout right one</value>
+<component id="1d79306c-d321-b47d-8e35-6e8b2ab2c665">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1d79</objectGroupId>
+	<objectId>1d79306c-d321-b47d-8e35-6e8b2ab2c665</objectId>
+	<file-name>1d79306c-d321-b47d-8e35-6e8b2ab2c665.xml</file-name>
+	<internal-name>Callout right one</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top" style="color: var(--color-text-heading); margin-bottom: 0px; line-height: var(--heading-line-height); font-weight: 500; font-size: 32px; margin-top: 0px; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-style: italic; background-color: #f9f9f9;"&gt;A trick here is to leave your cards at home and take the actual cash that you&amp;rsquo;ve budgeted towards that event. That way when your money is up, you can&amp;rsquo;t spend more.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-09-01T13:38:59.681Z</createdDate>
+	<createdDate_dt>2021-09-01T13:38:59.681Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:38:59.681Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:38:59.681Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>ff00fee8-2420-c407-5e1b-08974fbe099f</key>
+	<value>Conclusion</value>
+<component id="ff00fee8-2420-c407-5e1b-08974fbe099f">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ff00</objectGroupId>
+	<objectId>ff00fee8-2420-c407-5e1b-08974fbe099f</objectId>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<file-name>ff00fee8-2420-c407-5e1b-08974fbe099f.xml</file-name>
+	<sectionContent_html>&lt;h2 class="text--md" style="color: var(--color-text-heading); margin-bottom: var(--space-sm); line-height: var(--heading-line-height); font-weight: 500; font-size: var(--text-md); font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; background-color: #f9f9f9;"&gt;Conclusion&lt;/h2&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;The silly season is nearly here, but we want you to be smart about your spending so that you avoid the dreaded January financial depression. So when you think about gifts this year, think twice about just buying everyone more stuff. We&amp;rsquo;ve shown you some clever ways you can give meaningfully to your friends and your loved ones, while spending almost nothing.&lt;/p&gt;
+&lt;p style="margin-bottom: var(--space-md); line-height: var(--body-line-height); color: #2e2e31; font-family: 'Whitney SSm A', 'Whitney SSm B', system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; background-color: #f9f9f9;"&gt;If you want advice on how you can budget towards the December holidays or any other aspects of your finances, Velocity Club is here to help. Our highly skilled financial advisers will look at your specific circumstances and help you to make the right decisions that will get you on the path towards achieving your financial goals.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-09-01T13:39:21.449Z</createdDate>
+	<createdDate_dt>2021-09-01T13:39:21.449Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T13:39:21.449Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T13:39:21.449Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<date_dt>2020-10-14T04:00:00.000Z</date_dt>
+	<createdDate>2021-09-01T13:35:25.848Z</createdDate>
+	<createdDate_dt>2021-09-01T13:35:25.848Z</createdDate_dt>
+	<lastModifiedDate>2021-09-01T16:35:59.420Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-01T16:35:59.420Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
