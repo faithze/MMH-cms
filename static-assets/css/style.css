@@ -14,6 +14,7 @@ Velocity Club Styles
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 @import "https://retail.momentum.co.za/assets/fonts/701783/69A23A8FA0BED4DF3.css";
+@import "/mmh.css";
 html {
   line-height: 1.15;
   /* 1 */
@@ -2170,22 +2171,6 @@ ul.faq-group {
     .unstyled-list {
       padding-left: 0;
       list-style-type: none;
-    }
-
-    .unstyled-list li {
-      padding: 3px 0 6px !important;
-    }
-
-    footer span {
-      padding-right: 2px;
-    }
-
-    .styled-list li {
-      padding: 3px 0 6px !important;
-    }
-
-    .icon-list li:before {
-      display: none;
     }
 
 
